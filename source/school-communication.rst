@@ -66,7 +66,7 @@ You can use this address freely to communicate with other students, staff and pe
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/email/set-up-email-forwarding/" role="button">Set Up Email Forwarding</a></div>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/email/set-up-email-forwarding/" role="button" style="margin-bottom:20px;">Set Up Email Forwarding</a></div>
 
 .. important:: You must check your e-mail regularly for incoming messages. **Any failure to read important communications will not be accepted as grounds for mitigation.**
 
@@ -89,7 +89,7 @@ Some of the lectures given in theatres are equipped with Panopto. This records t
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://imperial.cloud.panopto.eu" role="button">Log in to Panopto</a></div>
+  <a class="btn btn-info btn-custom" href="http://imperial.cloud.panopto.eu" role="button" style="margin-bottom:20px;">Log in to Panopto</a></div>
 
 **Note** that if a session is being recorded and for any reason you do not wish to be part of that recording, please sit in an ‘off-camera’ area (ask the lecturer if you are in doubt) — and reserve any questions to the lecturer until recording has ended.
 

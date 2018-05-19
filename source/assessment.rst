@@ -101,7 +101,7 @@ In the event that you believe that you have grounds for complaint about academic
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/about/governance/academic-governance/academic-policy/complaints-appeals-and-discipline/" role="button">Appeal and Complaints Procedures</a></div>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/about/governance/academic-governance/academic-policy/complaints-appeals-and-discipline/" role="button" style="margin-bottom:20px;">Appeal and Complaints Procedures</a></div>
 
 Supplementary Qualifying Tests (resits)
 =======================================

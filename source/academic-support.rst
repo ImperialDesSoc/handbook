@@ -12,7 +12,7 @@ First and foremost, please take time to explore the new Imperial Success Guide s
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/students/success-guide/" role="button">The Imperial Success Guide</a></div>
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/students/success-guide/" role="button" style="margin-bottom:20px;">The Imperial Success Guide</a></div>
 
 English Classes
 ===============
@@ -22,7 +22,7 @@ The undergraduate course involves a substantial amount of reading and writing, a
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/academic-english" role="button" style="margin-bottom:20px;">Centre for Academic English</a></div>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/academic-english" role="button" style="margin-bottom:20px;" style="margin-bottom:20px;">Centre for Academic English</a></div>
 
 .. important:: Failure to attend these classes could result in you not understanding the lectures and failing the year’s assessments (i.e. projects, end-of-Term exams, essays and reports, etc.)
 
@@ -54,7 +54,7 @@ You can choose from more than 20 different course options in the following four 
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/horizons" role="button">Imperial Horizons</a></div>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/horizons" role="button" style="margin-bottom:20px;">Imperial Horizons</a></div>
 
 Disability Advisory Service
 ===========================
@@ -70,7 +70,7 @@ The Disability Advisory Service works with individual students, no matter what t
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/disability-advisory-service/" role="button">Disability Advisory Service</a></div>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/disability-advisory-service/" role="button" style="margin-bottom:20px;">Disability Advisory Service</a></div>
 
 Evening Classes
 ===============
@@ -80,7 +80,7 @@ The Centre for Co-curricular Studies offers evening classes in a broad selection
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/evening-classes/" role="button">Information on evening classes</a></div>
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/evening-classes/" role="button" style="margin-bottom:20px;">Information on evening classes</a></div>
 
 Central Library
 ===============
@@ -100,6 +100,6 @@ The School librarian maintains a web page with a blog. They also have office hou
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/library/subject-support/design-engineering/" role="button">School Librarian</a>
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/library/" role="button">College Library</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/library/subject-support/design-engineering/" role="button" style="margin-bottom:20px;">School Librarian</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/library/" role="button" style="margin-bottom:20px;">College Library</a>
   </div>
