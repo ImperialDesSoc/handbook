@@ -22,11 +22,11 @@ body > div.wy-grid-for-nav > nav > div > div.wy-side-nav-search > a::before {
 }
 
 /* Change style of search form in sidebar */
-.wy-side-nav-search input[type="text"] {
+/* .wy-side-nav-search input[type="text"] {
     width: 90% !important;
     border: 0 !important;
     border-radius: 3px !important;
-}
+} */
 
 /* Use text font for headings */
 /* h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
