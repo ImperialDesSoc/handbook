@@ -22,7 +22,7 @@ The undergraduate course involves a substantial amount of reading and writing, a
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/academic-english" role="button">Centre for Academic English</a></div>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/academic-english" role="button" style="margin-bottom:20px;">Centre for Academic English</a></div>
 
 .. important:: Failure to attend these classes could result in you not understanding the lectures and failing the year’s assessments (i.e. projects, end-of-Term exams, essays and reports, etc.)
 
