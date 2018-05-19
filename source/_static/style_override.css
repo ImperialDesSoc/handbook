@@ -1,4 +1,9 @@
 @import url("css/theme.css");
+/*
+  Import the RTD default theme styling,
+  then override with the following properties
+*/
+
 .wy-table-responsive table td {
     white-space: normal !important;
 }
