@@ -1,8 +1,17 @@
-@import url("css/theme.css");
 /*
-  Import the RTD default theme styling,
+  Import the bootstrap theme as a styling basis
+*/
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css");
+
+/*
+  Import the RTD default theme styling, which overrides bootstrap as necessary,
   then override with the following properties
 */
+@import url("css/theme.css");
+
+.btn-custom {
+  margin-bottom: 20px;
+}
 
 .wy-table-responsive table td {
     white-space: normal !important;

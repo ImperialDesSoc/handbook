@@ -1,6 +1,6 @@
-=============
+============
 Year by Year
-=============
+============
 
 Key Dates and Attendance
 ========================
@@ -62,15 +62,97 @@ Closure Dates
 
 You are required to attend College until the end of session because the External Examiners may wish to interview you during the last week. You should therefore avoid any commitment — other than those forming part of the course — which could prevent you attending College during term-time.
 
+Term Structure
+--------------
+
+Design Engineering has teaching across all three terms. We also have exams throughout the year, rather than in one session at the end of the year.
+
+**Terms 1 & 2**
+
+.. list-table::
+  :widths: 5 10
+  :header-rows: 1
+
+  * - **Week**
+    - **Activity**
+  * - 1
+    - Welcome Week (T1)
+      Exams (T2)
+  * - 2-5
+    - Teaching
+  * - 6
+    - DRAW week
+  * - 7-10
+    - Teaching
+  * - 11
+    - Supplementary activities
+
+**Terms 3**
+
+.. list-table::
+  :widths: 5 10
+  :header-rows: 1
+
+  * - **Week**
+    - **Activity**
+  * - 1
+    - Exams
+  * - 2-4
+    - Teaching
+  * - 5
+    - DRAW week
+  * - 6-8
+    - Teaching
+  * - 9
+    - Exams
+
+.. todo:: reformat these two tables into something more appropriate
+
+.. important:: There will be scheduled mandatory activities throughout the first and last weeks of every term. **You are expected to be available to attend School from the first day of term to the last.**
+
+What is DRAW Week?
+------------------
+
+DRAW stands for Design, Review, Applications and Workshops.
+
+During DRAW Weeks there will be a variety of one-off activities timetabled. Some of these will be directly related to your current studies and some of them will be looking beyond the curriculum.
+
+DRAW Week is a busy week and all of the sessions are mandatory.
+
+.. important:: DRAW Weeks are not traditional ‘Reading Weeks’ – you will not have the chance for trips away from College during this time.
+
 Degree Overview
 ===============
 
+A schematic overview of the academic curriculum is given in Appendix B - Programme Modules Gantt Chart on p 62.
+
+.. todo:: fix link to appendix
+
+Every teaching and learning activity is part of a module, which is taught in a specific year of the course (DE1 to DE4). These are grouped in board themes, listed below.
+
+- Design
+- Design engineering project
+- Engineering
+- Transferrable skills
+- Enterprise
+
+Each module is self-contained and separately assessed although, of course, its subject matter will be linked to that of other modules.
+
+**Note** As the MEng Design Engineering is a new course, information regarding subsequent years is subject to change.
+
+In addition the programme includes a diverse range of electives, some run by other departments, some run by the Dyson School of Design Engineering and open to students from other departments. These modules offer a crucial opportunity for interdisciplinary experience and activities.
+
+A key activity in the programme is the extensive project work, some in combination with students from other departments, which is undertaken in each of the years, enabling implementation of material covered in the modules as well as project based learning of key technologies.
+
+The programme has a diversity of means of assessment with a particular emphasis on project work, assignments and coursework as opposed to examinations. The project work focus enables students with particular requirements to schedule their efforts according to their particular needs. Several electives are available in years three and four, permitting students to adjust the focus of their studies as they progress, and the intention is to make further elective modules available as the School develops.
 
 Modules Year by Year
-=======================
+====================
 
-Limits in the Cartesian space are as follows:
+The First Year
+--------------
 
+The programme commences with key foundational skills and knowledge building in design and engineering fundamentals. Beginning with induction projects, the novice design engineer’s experience of the design process is steadily developed through a series of design engineering projects, enabling the student to see the practical application of content introduced in other modules as well as developing their own individual experience base and design process, communication and project management skills.
 
 .. note:: The following table was inserted from a PNG image file, an alternative (but not recommended) way to displaying tables
 
@@ -129,3 +211,5 @@ Limits in the Cartesian space are as follows:
     </table>
   </div>
  <br>
+
+.. todo:: the rest of the year by year breakdown

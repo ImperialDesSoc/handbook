@@ -66,9 +66,14 @@ Welcome from the Head of School
 |  Head of Design Engineering
 |
 
+.. figure:: _static/welcome.png
+   :align: center
+   :figclass: align-center
 
 Meet the School Teaching Staff
 ==============================
+
+.. todo:: Need to complete this for all staff members. Currently only have a random selection for demo.
 
 .. note:: School staff profiles can be customised into any custom format. This one dynamically moves around with the size of the screen and can provide easy direct links to opening a new email with a member of staff.
 
