@@ -1,5 +1,4 @@
-@import "sphinx_rtd_theme.css";
-@import "theme.css";
+@import url("theme.css");
 /* .wy-table-responsive table td {
     white-space: normal !important;
 } */
