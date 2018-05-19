@@ -29,9 +29,9 @@ body > div.wy-grid-for-nav > nav > div > div.wy-side-nav-search > a::before {
 }
 
 /* Use text font for headings */
-h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
+/* h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
     font-family: "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif !important;
-}
+} */
 
 /* Use "Brand light blue" for ToC heading */
 body > div.wy-grid-for-nav > nav > div > div.wy-menu.wy-menu-vertical > p > span {
