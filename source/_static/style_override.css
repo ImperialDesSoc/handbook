@@ -10,7 +10,7 @@
 @import url("css/theme.css");
 
 .btn-custom {
-  margin-bottom: 20px;
+  margin-bottom: 20px !important;
 }
 
 .wy-table-responsive table td {
