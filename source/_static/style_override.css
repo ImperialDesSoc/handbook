@@ -3,11 +3,11 @@
 }
 
 /* Switch order of project name and logo in sidebar */
-body > div > nav > div > div.wy-side-nav-search > a {
+/* body > div > nav > div > div.wy-side-nav-search > a {
     display: flex !important;
     justify-content: center !important;
     flex-direction: column-reverse !important;
-}
+} */
 
 /* Smaller logo, adjust margins after reordering with project name */
 body > div.wy-grid-for-nav > nav > div > div.wy-side-nav-search > a > img {
