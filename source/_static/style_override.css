@@ -23,11 +23,11 @@ body > div.wy-grid-for-nav > nav > div > div.wy-side-nav-search > a::before {
 }
 
 /* Change style of search form in sidebar */
-/* .wy-side-nav-search input[type="text"] {
+.wy-side-nav-search input[type="text"] {
     width: 90% !important;
     border: 0 !important;
     border-radius: 3px !important;
-} */
+}
 
 /* Use text font for headings */
 /* h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
@@ -35,16 +35,16 @@ body > div.wy-grid-for-nav > nav > div > div.wy-side-nav-search > a::before {
 } */
 
 /* Use "Brand light blue" for ToC heading */
-/* body > div.wy-grid-for-nav > nav > div > div.wy-menu.wy-menu-vertical > p > span {
+body > div.wy-grid-for-nav > nav > div > div.wy-menu.wy-menu-vertical > p > span {
     color: #00b9eb !important;
-} */
+}
 
 /* Use "Brand dark blue" for top of sidebar */
-/* .wy-side-nav-search {
+.wy-side-nav-search {
     background-color: #1a282d !important;
-} */
+}
 
 /* Use lighter colour derived from "Brand dark blue" for sidebar background */
-/* .wy-nav-side {
+.wy-nav-side {
     background-color: #233942 !important;
-} */
+}
