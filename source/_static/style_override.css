@@ -1,26 +1,26 @@
 @import url("css/theme.css");
-/* .wy-table-responsive table td {
+.wy-table-responsive table td {
     white-space: normal !important;
-} */
+}
 
 /* Switch order of project name and logo in sidebar */
-/* body > div > nav > div > div.wy-side-nav-search > a {
+body > div > nav > div > div.wy-side-nav-search > a {
     display: flex !important;
     justify-content: center !important;
     flex-direction: column-reverse !important;
-} */
+}
 
 /* Smaller logo, adjust margins after reordering with project name */
-/* body > div.wy-grid-for-nav > nav > div > div.wy-side-nav-search > a > img {
+body > div.wy-grid-for-nav > nav > div > div.wy-side-nav-search > a > img {
     height: 6em !important;
     margin-bottom: 0.85em !important;
     margin-top: 0 !important;
-} */
+}
 
 /* Remove home icon in sidebar */
-/* body > div.wy-grid-for-nav > nav > div > div.wy-side-nav-search > a::before {
+body > div.wy-grid-for-nav > nav > div > div.wy-side-nav-search > a::before {
     content: "" !important;
-} */
+}
 
 /* Change style of search form in sidebar */
 /* .wy-side-nav-search input[type="text"] {
