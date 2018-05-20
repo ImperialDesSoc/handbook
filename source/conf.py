@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# FCI documentation build configuration file, created by
-# sphinx-quickstart on Wed May 24 14:40:52 2017.
+# DEH documentation build configuration file, created by
+# Benedict Greenberg on Fri 18 May 2018.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -109,7 +109,7 @@ html_logo = '_static/logo.png'
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'fci-docs'
+htmlhelp_basename = 'deh-docs'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -163,3 +163,8 @@ texinfo_documents = [
      'handbook', 'Student Handbook',
      'Miscellaneous'),
 ]
+
+def setup(app):
+    # (create a setup() function if you don't already have one;
+    # or add to the existing setup() ...)
+    app.add_javascript("style_override.js")
