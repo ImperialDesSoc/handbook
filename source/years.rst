@@ -165,7 +165,13 @@ The programme commences with key foundational skills and knowledge building in d
 .. raw:: html
 
   <div style="overflow-x:auto;font-size:.8em">
-    <table border="1" cellpadding="10" width="100%">
+    <table border="1" cellpadding="5" style="width:100%;min-width:600px">
+      <colgroup>
+        <col span="1" style="width: 10%;">
+        <col span="1" style="width: 20%;">
+        <col span="1" style="width: 60%;">
+        <col span="1" style="width: 10%;">
+      </colgroup>
       <tr bgcolor="#B0B1AF">
         <th>Theme</th>
         <th>Title</th>
