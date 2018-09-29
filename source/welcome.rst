@@ -73,8 +73,6 @@ Welcome from the Head of School
 Meet the School Teaching Staff
 ==============================
 
-.. todo:: These profiles will be updated to include links to the Imperial staff professional pages.
-
 .. raw:: html
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -169,10 +167,10 @@ Meet the School Teaching Staff
       <div class="profile_contact"><a href="mailto:a.dasan@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/garvey_bruce.png">
-      <div class="profile_name">Dr Bruce Garvey</div>
-      <div class="profile_title">Visiting Teaching Fellow</div>
-      <div class="profile_contact"><a href="mailto:b.garvey12@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/demirel_pelin.png">
+      <div class="profile_name">Dr Pelin Demirel</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:p.demirel@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
       <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/ghajari_mazdak.png">
@@ -189,8 +187,14 @@ Meet the School Teaching Staff
     <div class="profile">
       <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/haddadi_hamed.png">
       <div class="profile_name">Dr Hamed Haddadi</div>
-      <div class="profile_title">Reader</div>
+      <div class="profile_title">Senior Lecturer</div>
       <div class="profile_contact"><a href="mailto:h.haddadi@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/kirchberger_eva-maria.png">
+      <div class="profile_name">Eva-Maria Kirchberger</div>
+      <div class="profile_title">Senior Teaching Fellow</div>
+      <div class="profile_contact"><a href="mailto:e.kirchberger@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
       <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/kormushev_petar.png">
@@ -225,7 +229,7 @@ Meet the School Teaching Staff
     <div class="profile">
       <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/nanayakkara_thrish.png">
       <div class="profile_name">Dr Thrish Nanayakkara</div>
-      <div class="profile_title">Senior Lecturer</div>
+      <div class="profile_title">Reader</div>
       <div class="profile_contact"><a href="mailto:t.nanayakkara@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
@@ -239,6 +243,12 @@ Meet the School Teaching Staff
       <div class="profile_name">Dr Lorenzo Picinali</div>
       <div class="profile_title">Senior Lecturer</div>
       <div class="profile_contact"><a href="mailto:l.picinali@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/porat_tayla.png">
+      <div class="profile_name">Dr Tayla Porat</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:t.porat@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
       <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/reeves_jim.png">
@@ -255,7 +265,7 @@ Meet the School Teaching Staff
     <div class="profile">
       <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/sharifi_shayan.png">
       <div class="profile_name">Dr Shayan Sharifi</div>
-      <div class="profile_title">Teaching Fellow</div>
+      <div class="profile_title">Senior Teaching Fellow</div>
       <div class="profile_contact"><a href="mailto:s.sharifi@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
@@ -271,9 +281,17 @@ Meet the School Teaching Staff
       <div class="profile_contact"><a href="mailto:h.tomos@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/van-zalk_nejra.png">
+      <div class="profile_name">Dr Nejra Van Zalk</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:n.van-zalk@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
       <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/wu_billy.png">
       <div class="profile_name">Dr Billy Wu</div>
-      <div class="profile_title">Lecturer</div>
+      <div class="profile_title">Senior Lecturer</div>
       <div class="profile_contact"><a href="mailto:billy.wu@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
   </div>
+
+.. todo:: These profiles will be updated to include links to the Imperial staff professional pages.
