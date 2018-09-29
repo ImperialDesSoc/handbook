@@ -49,7 +49,7 @@ You can choose from more than 20 different course options in the following four 
 - 2nd Years: 16.00-18.00 on Mondays
 - 3rd / 4th Years: 16.00-18.00 Thursdays
 
-.. important:: First years must register their course preferences on the Imperial Horizons website during Welcome Week, before the deadline of Monday 10th October 2016. Imperial Horizons is a set of extracurricular and noncompulsory activities that are not credited towards your degree.
+.. important:: First years must register their course preferences on the Imperial Horizons website during Welcome Week, before the deadline of Monday 10th October 2016. Imperial Horizons is a set of extracurricular and non-compulsory activities that are not credited towards your degree.
 
 .. raw:: html
 
@@ -59,18 +59,71 @@ You can choose from more than 20 different course options in the following four 
 Disability Advisory Service
 ===========================
 
-The School Disability Liaison Officer (Andy Brand andrew.brand@imperial.ac.uk) can provide advice, support and referral to the College-wide Disability Advisory Service.
+The Disability Advisory Service (DAS) works with individual students, no matter what their disability or level of study, to ensure that they have the support they need. Our Advisors are committed to providing the best possible support for all students at Imperial College.
 
-.. todo:: link officer to key contacts page
+They understand that each person’s disability can affect them in different ways and therefore the support offered is flexible and tailored. We can also help if you think that you may have an unrecognised study issue or specific learning difficulty such as dyslexia. The Service is confidential and information about your support needs is only passed on to others within the College with your agreement and then only in order that you are fully supported. Our Advisors never pass on information outside the College or to parents unless you ask them to. DAS is also here to support students who may have a temporary or short term disability.
 
-The Disability Advisory Service works with individual students, no matter what their disability, to ensure that they have the support they need. It can also help if you think that you may have a previously unrecognised study problem such as dyslexia. The service is both confidential (information about you is only passed on to other people in the university with your agreement) and individual in that any support is tailored to what you need.
+Some of the sorts of things the Disability Advisors can help with are:
 
-**Disabled Students’ Allowance (DSA)** If you are classified as a Home student for fees and have a disability you can apply for a grant called the Disabled Students Allowance, which can pay any extra costs that are a direct result of disability. This fund is not means-tested and is also a grant not a loan so any home student with a disability can apply and will not be expected to pay it back.
+- checking that your evidence of disability is appropriate and up-to-date
+- arranging a diagnostic assessment for specific learning difficulties
+- making recommendations for additional exam arrangements, for example extra time or rest breaks
+- arranging extra Library support and access to the Assistive Technology Suite
+- supporting applications, where appropriate, for continuing accommodation after your first year.
+
+Your advisor will draw up a “Suggested Reasonable Adjustment” document for you to share with your department which outlines all your support needs and we will fund any additional support agreed by your DAS Advisor. This could include funding for:
+
+- note taking, specialist study skills or mentoring support.
+- disability related equipment (NOT computers)
+- other additional support, for example taxi fares for those who need help with transport.
+
+A disability is any long-term condition that has a substantial impact on your ability to study effectively for example:
+
+- a specific learning difficulty, e.g. dyslexia, dyspraxia
+- an enduring mental health condition, e.g. depression, OCD, generalised anxiety disorder etc
+- a visual, hearing, or other sensory impairment
+- a long-term medical condition, e.g. IBS, ME, diabetes
+- a social/communication difficulty, e.g. autistic spectrum/Asperger’s syndrome
+- a mobility or dexterity impairment.
+
+You can book an appointment by dropping in to the office, phoning or sending an email:
+
+| The Disability Advisory Service
+| Room 566, Level 5, Sherfield Building
+| 020 7594 9755
+| disabilities@imperial.ac.uk
+|
 
 .. raw:: html
 
   <div style="text-align:center">
   <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/disability-advisory-service/" role="button" style="margin-bottom:20px;">Disability Advisory Service</a></div>
+
+Departmental Disability Officers (DDOs)
+=======================================
+
+Departmental Disability Officers are your first point of contact. They can apply for additional exam arrangements on your behalf, and will facilitate support within your Department.
+
+The School has two Disability Liaison Officers. Depending on the year your joined us, one of them will be your main contact.
+
+.. tip:: You can find the DDO responsible for your year group in the Key Contacts :ref:`disability-officers` section.
+
+More information on Departmental Disability Officers is available at:
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;">College DDO Information</a></div>
+
+
+More information on procedures for the consideration of additional exam arrangements in respect of disability is available at:
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;">Exam arrangements and disability</a></div>
+
+.. todo:: The above links currently do not work but will be updated soon.
 
 Evening Classes
 ===============
