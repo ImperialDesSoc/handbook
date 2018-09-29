@@ -73,9 +73,7 @@ Welcome from the Head of School
 Meet the School Teaching Staff
 ==============================
 
-.. todo:: Need to complete this for all staff members. Currently only have a random selection for demo.
-
-.. note:: School staff profiles can be customised into any custom format. This one dynamically moves around with the size of the screen and can provide easy direct links to opening a new email with a member of staff.
+.. todo:: These profiles will be updated to include links to the Imperial staff professional pages.
 
 .. raw:: html
 
@@ -123,53 +121,159 @@ Meet the School Teaching Staff
 
   <div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/peter_childs.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/childs_peter.png">
       <div class="profile_name">Prof. Peter Childs</div>
       <div class="profile_title">Head of School</div>
       <div class="profile_contact"><a href="mailto:p.childs@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/weston_baxter.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/aurisicchio_marco.png">
+      <div class="profile_name">Dr Marco Aurisicchio</div>
+      <div class="profile_title">Senior Lecturer</div>
+      <div class="profile_contact"><a href="mailto:m.aurisicchio@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/baxter_weston.png">
       <div class="profile_name">Dr Weston Baxter</div>
       <div class="profile_title">Lecturer</div>
       <div class="profile_contact"><a href="mailto:weston.baxter@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/andrew_brand.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/brand_andrew.png">
       <div class="profile_name">Andrew Brand</div>
       <div class="profile_title">Principal Teaching Fellow</div>
       <div class="profile_contact"><a href="mailto:andrew.brand@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/peter_cheung.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/boyle_david.png">
+      <div class="profile_name">Dr David Boyle</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:david.boyle@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/cheung_peter.png">
       <div class="profile_name">Prof. Peter Cheung</div>
       <div class="profile_title">Professor</div>
       <div class="profile_contact"><a href="mailto:p.cheung@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/sam_cooper.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/cooper_sam.png">
       <div class="profile_name">Dr Sam Cooper</div>
       <div class="profile_title">Lecturer</div>
       <div class="profile_contact"><a href="mailto:samuel.cooper@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/aran_dasan.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/dasan_aran.png">
       <div class="profile_name">Aran Dasan</div>
       <div class="profile_title">Senior Teaching Fellow</div>
       <div class="profile_contact"><a href="mailto:a.dasan@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/bruce_garvey.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/garvey_bruce.png">
       <div class="profile_name">Dr Bruce Garvey</div>
       <div class="profile_title">Visiting Teaching Fellow</div>
       <div class="profile_contact"><a href="mailto:b.garvey12@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/mazdak_ghajari.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/ghajari_mazdak.png">
       <div class="profile_name">Dr Mazdak Ghajari</div>
       <div class="profile_title">Lecturer</div>
       <div class="profile_contact"><a href="mailto:m.ghajari@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/green_stephen.png">
+      <div class="profile_name">Dr Stephen Green</div>
+      <div class="profile_title">Senior Teaching Fellow</div>
+      <div class="profile_contact"><a href="mailto:stephen.green@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/haddadi_Hamed.png">
+      <div class="profile_name">Dr Hamed Haddadi</div>
+      <div class="profile_title">Reader</div>
+      <div class="profile_contact"><a href="mailto:h.haddadi@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/kormushev_petar.png">
+      <div class="profile_name">Dr Petar Kormushev</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:p.kormushev@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/kravchenko_olga.png">
+      <div class="profile_name">Olga Kravchenko</div>
+      <div class="profile_title">Teaching Fellow</div>
+      <div class="profile_contact"><a href="mailto:o.kravchenko@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/li_nan.png">
+      <div class="profile_name">Dr Nan Li</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:n.li09@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/mougenot_celine.png">
+      <div class="profile_name">Dr Celine Mougenot</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:c.mougenot@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/myant_connor.png">
+      <div class="profile_name">Dr Connor Myant</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:connor.myant05@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/nanayakkara_thrish.png">
+      <div class="profile_name">Dr Thrish Nanayakkara</div>
+      <div class="profile_title">Senior Lecturer</div>
+      <div class="profile_contact"><a href="mailto:t.nanayakkara@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/page_freddie.png">
+      <div class="profile_name">Dr Freddie Page</div>
+      <div class="profile_title">Strategic Teaching Fellow</div>
+      <div class="profile_contact"><a href="mailto:freddie.page@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/picinali_lorenzo.png">
+      <div class="profile_name">Dr Lorenzo Picinali</div>
+      <div class="profile_title">Senior Lecturer</div>
+      <div class="profile_contact"><a href="mailto:l.picinali@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/reeves_jim.png">
+      <div class="profile_name">Jim Reeves</div>
+      <div class="profile_title">Teaching Fellow</div>
+      <div class="profile_contact"><a href="mailto:jim.reeves@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/rojas_nicolas.png">
+      <div class="profile_name">Dr Nicolas Rojas</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:n.rojas@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/sharifi_shayan.png">
+      <div class="profile_name">Dr Shayan Sharifi</div>
+      <div class="profile_title">Teaching Fellow</div>
+      <div class="profile_contact"><a href="mailto:s.sharifi@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/sheldrick_leila.png">
+      <div class="profile_name">Dr Leila Sheldrick</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:l.sheldrick@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/tomos_hawys.png">
+      <div class="profile_name">Hawys Tomos</div>
+      <div class="profile_title">Visiting Teaching Fellow</div>
+      <div class="profile_contact"><a href="mailto:h.tomos@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
+    <div class="profile">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/wu_billy.png">
+      <div class="profile_name">Dr Billy Wu</div>
+      <div class="profile_title">Lecturer</div>
+      <div class="profile_contact"><a href="mailto:billy.wu@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+    </div>
   </div>
-
-Feel free to get in contact with the member of staff you need.
