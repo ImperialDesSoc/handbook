@@ -24,7 +24,12 @@ Within Blackboard you will be able to find a section (module shell) for each of 
 
 **How to login**
 
-You will be able to `login into Blackboard <https://bb.imperial.ac.uk/>`_ using your Imperial College credentials (e.g. jb112).
+You will be able to login into Blackboard using your Imperial College credentials (e.g. jb112).
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="https://bb.imperial.ac.uk/" role="button" style="margin-bottom:20px;">Blackboard</a></div>
 
 Blackboard App
 --------------
@@ -38,7 +43,7 @@ Design Engineering Information
 
 In the Blackboard homepage, on the right side under “My Organisations”, you can find the ‘Design Engineering Information’ organisation page. This has a number of sections that contain useful links and documents:
 
-**‘UG resources’**:
+**‘UG resources’**
 
 - Mitigating Circumstances Guidelines
 - Latest version of this handbook
@@ -95,14 +100,38 @@ Some of the lectures given in theatres are equipped with Panopto. This records t
 
 Many students find lecture videos a valuable resource for review and revision. However, a recording cannot possibly replace the shared learning experience of the live lecture, and cannot be relied on for completeness. Occasionally, video capture partially or completely fails.
 
-`Guidelines on audio and video lecture recordings <https://www.imperial.ac.uk/media/imperial-college/whats-on/public/Audioandvideolecturerecordingguidelines.pdf>`_
+.. raw:: html
 
-`Code of Student Discipline <http://www.imperial.ac.uk/admin-services/secretariat/college-governance/charters/ordinances/students/>`_
-
-.. todo:: improve these links above. maybe student code goes elsewhere?
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/media/imperial-college/whats-on/public/Audioandvideolecturerecordingguidelines.pdf" role="button" style="margin-bottom:20px;">Guidelines on audio and video lecture recordings</a></div>
 
 .. important:: It is the School’s intention to make Panopto recordings whenever the facilities allow this. However not all College teaching spaces are fitted with the necessary facilities, so you must not rely on being able to view recordings after the fact.
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/secretariat/college-governance/charters/ordinances/students/" role="button" style="margin-bottom:20px;">Code of Student Discipline</a></div>
 
 .. warning:: Lecture recordings are provided only for personal use by registered Imperial College students, and only for educational purposes.
 
   Any redistribution (e.g. via social media), sharing (even by email), editing or re-use of a lecture video will be treated as misconduct and handled as a disciplinary matter under the Code of Student Discipline.
+
+Your Timetable
+==============
+
+Your timetable will automatically update your Imperial College Outlook calendar.
+
+The easiest and most reliable way to view your calendar is via iCalendar.
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;">iCalendar</a></div>
+
+.. todo:: The link above currently does not work but should be repaired soon. You may have received your link from registry via email.
+
+Timetables are subject to last minute changes so you should get in the habit of checking your timetable regularly.
+
+Whilst the majority of teaching activity is between 1000-1700 Monday-Friday during term time (except Wednesday afternoons and your Year’s Horizon slot), events may be scheduled anytime between 0900-1800.
+
+If you have issues with events not showing up in your iCalendar, please send a screenshot of your calendar to Alex Marsh in the Teaching Office (a.marsh@imperial.ac.uk).

@@ -17,7 +17,7 @@ MEng Design Engineering 2017-18
 
    welcome
    key-contacts
-   school-communication
+   school-comms
    academic-support
    assessment
    school-spaces
