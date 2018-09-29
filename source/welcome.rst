@@ -187,7 +187,7 @@ Meet the School Teaching Staff
       <div class="profile_contact"><a href="mailto:stephen.green@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/haddadi_Hamed.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/haddadi_hamed.png">
       <div class="profile_name">Dr Hamed Haddadi</div>
       <div class="profile_title">Reader</div>
       <div class="profile_contact"><a href="mailto:h.haddadi@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
