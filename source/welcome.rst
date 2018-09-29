@@ -70,6 +70,8 @@ Welcome from the Head of School
    :align: center
    :figclass: align-center
 
+.. _school-teaching-staff:
+
 Meet the School Teaching Staff
 ==============================
 
