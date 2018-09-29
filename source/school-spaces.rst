@@ -113,6 +113,8 @@ In the Breakout Space on 2rd Floor, Dyson Building there are project drawers whi
 
 These are managed by the School’s Student Reps (see: Student Reps). If you have any issues with these, you should contact the Reps directly.
 
+.. todo:: There is a reference to Student reps here however this information is not yet available.
+
 Otherwise you will be responsible for storing the necessary books and equipment for your courses and ensuring that you bring the correct items with you to classes and sessions.
 
 .. todo:: There is an image missing here showing an example of student storage space.
@@ -171,7 +173,7 @@ Workshop Hours
 
   Qualified students can access the workshop benches and use hand-tools during these hours.
 
-  .. note:: The workshop is **not** accessible on College closure days.
+  .. note:: The workshop is **not** accessible on College closure days (:ref:`college-closure`).
 
 .. important:: It is always your responsibility to return your tools to their storage places after use.
 

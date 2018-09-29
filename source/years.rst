@@ -38,6 +38,14 @@ Term Dates
     - 4 January - 20 March
     - 25 April - 26 June
 
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/admin-services/registry/term-dates/" role="button" style="margin-bottom:20px;white-space:normal;">Future Term Dates</a>
+  </div>
+
+.. _`college-closure`:
+
 Closure Dates
 -------------
 
@@ -48,15 +56,21 @@ Closure Dates
   * - **Holiday**
     - **Dates**
   * - **Christmas/New year**
-    - 22 December 2017–1 January 2018 (College reopens on 2 January 2018)
+    - 24 December 2017 - 1 January 2018 (College reopens on 2 January 2019)
   * - **Easter holiday**
-    - 28 March–3 April 2018 (College reopens on 4 April 2018)
+    - 18 April – 23 April 2019 (College reopens on 24 April 2019)
   * - **Early May bank holiday**
-    - 7 May 2018
+    - 6 May 2019
   * - **Spring bank holiday**
-    - 28 May 2018
+    - 27 May 2019
   * - **Summer bank holiday**
-    - 27 August 2018
+    - 26 August 2019
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/admin-services/registry/term-dates/" role="button" style="margin-bottom:20px;white-space:normal;">Future College Closure Dates</a>
+  </div>
 
 .. important:: For all coursework submission deadlines, key dates and late-breaking news associated with specific modules, please check the calendar on the corresponding BlackBoard page.
 
@@ -96,17 +110,13 @@ Design Engineering has teaching across all three terms. We also have exams throu
   * - **Week**
     - **Activity**
   * - 1
-    - Exams
-  * - 2-4
+    - Exams & Teaching
+  * - 2-7
     - Teaching
-  * - 5
-    - DRAW week
-  * - 6-8
-    - Teaching
+  * - 8
+    - Teaching/Assessments
   * - 9
-    - Exams
-
-.. todo:: reformat these two tables into something more appropriate
+    - Exams/Assessments
 
 .. important:: There will be scheduled mandatory activities throughout the first and last weeks of every term. **You are expected to be available to attend School from the first day of term to the last.**
 
@@ -121,12 +131,31 @@ DRAW Week is a busy week and all of the sessions are mandatory.
 
 .. important:: DRAW Weeks are not traditional ‘Reading Weeks’ – you will not have the chance for trips away from College during this time.
 
+Interruption of Studies
+=======================
+
+The DE MEng programme, its examination and assessment structure and its marking scheme are designed for continuous attendance. Interruption of Studies — effectively, temporary withdrawal — can be arranged for on medical, financial or personal grounds, but can create significant problems especially for international students.
+
+If you wish to take time out from your course of study, speak to your personal tutor first. S/he will refer you to Dr Lorenzo Picinali (who is the Interruptions Officer).
+
+It is important for us to understand your particular case and all aspects of why you wish to take the ‘gap’. If your plans are to work, for example, there may be options for integrating them with your current degree programme or for transferring to another.
+
+Temporarily ceasing to be a student can create significant problems: details of these are given on the Registry website.
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Registry Information on Interruption of Studies</a>
+  </div>
+
+.. todo:: The above link currently isn't working. It should be fixed shortly.
+
 Degree Overview
 ===============
 
 A schematic overview of the academic curriculum is given in Appendix B - Programme Modules Gantt Chart on p 62.
 
-.. todo:: fix link to appendix
+.. todo:: The reference above to the Appendix will be fixed.
 
 Every teaching and learning activity is part of a module, which is taught in a specific year of the course (DE1 to DE4). These are grouped in board themes, listed below.
 
@@ -138,7 +167,7 @@ Every teaching and learning activity is part of a module, which is taught in a s
 
 Each module is self-contained and separately assessed although, of course, its subject matter will be linked to that of other modules.
 
-**Note** As the MEng Design Engineering is a new course, information regarding subsequent years is subject to change.
+.. note:: As the MEng Design Engineering is a new course, information regarding subsequent years is subject to change.
 
 In addition the programme includes a diverse range of electives, some run by other departments, some run by the Dyson School of Design Engineering and open to students from other departments. These modules offer a crucial opportunity for interdisciplinary experience and activities.
 
@@ -154,23 +183,15 @@ The First Year
 
 The programme commences with key foundational skills and knowledge building in design and engineering fundamentals. Beginning with induction projects, the novice design engineer’s experience of the design process is steadily developed through a series of design engineering projects, enabling the student to see the practical application of content introduced in other modules as well as developing their own individual experience base and design process, communication and project management skills.
 
-.. note:: The following table was inserted from a PNG image file, an alternative (but not recommended) way to displaying tables
-
-.. figure:: _static/year1-modules.png
-   :align: center
-   :figclass: align-center
-
-.. note:: Alternatively, the following table was rendered directly from raw HTML so content format is flexible. Note that this has minimal formatting which can easily be added.
-
 .. raw:: html
 
   <div style="overflow-x:auto;font-size:.8em">
-    <table border="1" cellpadding="5" style="width:100%;min-width:600px">
+    <table border="1" cellpadding="5" style="border: 1px solid black; width:100%; min-width:600px;">
       <colgroup>
-        <col span="1" style="width: 10%;">
-        <col span="1" style="width: 20%;">
-        <col span="1" style="width: 60%;">
-        <col span="1" style="width: 10%;">
+        <col span="1" style="width: 15%;">
+        <col span="1" style="width: 30%;">
+        <col span="1" style="width: 50%;">
+        <col span="1" style="width: 5%;">
       </colgroup>
       <tr bgcolor="#B0B1AF">
         <th>Theme</th>
@@ -179,19 +200,13 @@ The programme commences with key foundational skills and knowledge building in d
         <th>Compulsary/Elective</th>
       </tr>
       <tr>
-        <td bgcolor="#96C086">Transferable Skills</td>
-        <td >Induction Projects</td>
-        <td >Introduce cohort to School and resources, introduce student group to each other and staff, embed in London and Imperial</td>
-        <td >Compulsory</td>
-      </tr>
-      <tr>
         <td bgcolor="#FFF101">Engineering</td>
         <td >Engineering Mathematics</td>
         <td >Engineering mathematics for design engineering</td>
         <td >Compulsory</td>
       </tr>
       <tr>
-        <td bgcolor="#96C086">Transferable Skills</td>
+        <td bgcolor="#D8127D">Professional Practice & Enterprise</td>
         <td >Communication in Design</td>
         <td >Presentation and technical communication skills, in combination with development of visual communication skills</td>
         <td >Compulsory</td>
@@ -203,7 +218,7 @@ The programme commences with key foundational skills and knowledge building in d
         <td >Compulsory</td>
       </tr>
       <tr>
-        <td bgcolor="#BD252C">Design</td>
+        <td bgcolor="#BD252C">Design Engineering projects</td>
         <td >Design 1</td>
         <td >Exploring the integration of design engineering tools to deliver effective design, introduction to design engineering research</td>
         <td >Compulsory</td>
@@ -214,8 +229,315 @@ The programme commences with key foundational skills and knowledge building in d
         <td >Development of fundamental skills in Mechanics and Dynamics for Design</td>
         <td >Compulsory</td>
       </tr>
+      <tr>
+        <td bgcolor="#FFF101">Engineering</td>
+        <td >Engineering Analysis 1.2 Energy and Design</td>
+        <td >This module covers an introduction to the principles of thermodynamics, energy, fluids mechanics and heat transfer from a design perspective.</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#00A3DA">Computing & Electronics</td>
+        <td >Engineering Analysis 1.3 Electronics</td>
+        <td >Development of fundamental skills in Electronics</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#00A3DA">Computing & Electronics</td>
+        <td >Computing 1</td>
+        <td >This module is designed to be a first introduction to computer programming.</td>
+        <td >Compulsory</td>
+      </tr>
     </table>
   </div>
  <br>
 
-.. todo:: the rest of the year by year breakdown
+Second and Third Years
+----------------------
+
+In the second and third years, the range of engineering fundamentals, design thinking, creative problem solving, management and communication skills are developed, leading to a series of enterprise modules and projects where students develop skills in value propositions and turning their concepts into embodied concepts and proposals that are suited to corporate and enterprise roll-out. Students going onto the fourth year will then take part in a six-month industrial placement intended to give them real commercial experience and an opportunity to put the skills they have acquire to practice.
+
+Second Year
+***********
+
+.. raw:: html
+
+  <div style="overflow-x:auto;font-size:.8em">
+    <table border="1" cellpadding="5" style="border: 1px solid black; width:100%; min-width:600px;">
+      <colgroup>
+      <col span="1" style="width: 15%;">
+      <col span="1" style="width: 30%;">
+      <col span="1" style="width: 50%;">
+      <col span="1" style="width: 5%;">
+      </colgroup>
+      <tr bgcolor="#B0B1AF">
+        <th>Theme</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Compulsary/Elective</th>
+      </tr>
+      <tr>
+        <td bgcolor="#FFF101">Engineering</td>
+        <td >Gizmo (Physical Computing)</td>
+        <td >Development of key skills in machine elements and physical computing</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFF101">Engineering</td>
+        <td >Engineering Analysis 2.1 - Mechanics for Design Engineering</td>
+        <td >Development of in-depth skills in Advanced Mechanical Analysis</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFF101">Engineering</td>
+        <td >Engineering Analysis 2.2 - Computer-Aided Engineering</td>
+        <td >Development of in-depth skills in Finite Element Analysis</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#00A3DA">Computing & Electronics</td>
+        <td >Engineering Analysis 2.3 - Electronics for Product and System Design</td>
+        <td >Development of in-depth skills in Electronics for Product and System Design</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#00A3DA">Computing & Electronics</td>
+        <td >Computing 2</td>
+        <td >Software Implementation and Engineering</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#00A3DA">Computing & Electronics</td>
+        <td >Big Data</td>
+        <td >Introduction to statistical analysis, sensitivity coefficients and practical data analysis and “big-data” tools.</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#BD252C">Design Engineering projects</td>
+        <td >Design 2</td>
+        <td >Exploring the use of design engineering principles to deliver technical function, aesthetic function, social function, economic functional and psychological function</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#BD252C">Design Engineering projects</td>
+        <td >Engineering Design Project</td>
+        <td >Design project exploring the application of skills acquired to deliver combined technical, aesthetic, economic and social function</td>
+        <td >Compulsory</td>
+      </tr>
+    </table>
+  </div>
+ <br>
+
+Third Year
+**********
+
+.. raw:: html
+
+  <div style="overflow-x:auto;font-size:.8em">
+    <table border="1" cellpadding="5" style="border: 1px solid black; width:100%; min-width:600px;">
+      <colgroup>
+        <col span="1" style="width: 15%;">
+        <col span="1" style="width: 30%;">
+        <col span="1" style="width: 50%;">
+        <col span="1" style="width: 5%;">
+      </colgroup>
+      <tr bgcolor="#B0B1AF">
+        <th>Theme</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Compulsary/Elective</th>
+      </tr>
+      <tr>
+        <td bgcolor="#D8127D">Professional Practice & Enterprise</td>
+        <td >Enterprise Management</td>
+        <td >Management principles, project management, business measures, Problem structuring, problem structuring tools, decision rationale</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#00A3DA">Computing & Electronics</td>
+        <td >Robotics</td>
+        <td >Introduction to robotics, sensors and actuators, control</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#BD252C">Design Engineering projects</td>
+        <td >Group Project</td>
+        <td >Engineering design group project/interdisciplinary group project</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#D8127D">Professional Practice & Enterprise</td>
+        <td >Industry Placement A</td>
+        <td >6 month Industry Placement</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td ></td>
+        <td >Y3 Elective 1</td>
+        <td rowspan="2">Available DE Elective modules can be found here</td>
+        <td >Elective</td>
+      </tr>
+      <tr>
+        <td ></td>
+        <td >Y3 Elective 2</td>
+        <td >Elective</td>
+      </tr>
+    </table>
+  </div>
+ <br>
+
+Fourth Year
+-----------
+
+The fourth year offers several electives, allowing a greater degree of specialisation to students than earlier years. The fourth year also contains a high proportion of the programme’s commercially oriented modules; this was designed to consolidate the students’ industrial placement experiences with their previous academic studies and invest students with the skills in enterprise and design in commercial contexts that the programme aims to provide its graduates.
+
+.. raw:: html
+
+  <div style="overflow-x:auto;font-size:.8em">
+    <table border="1" cellpadding="5" style="border: 1px solid black; width:100%; min-width:600px;">
+      <colgroup>
+        <col span="1" style="width: 15%;">
+        <col span="1" style="width: 30%;">
+        <col span="1" style="width: 50%;">
+        <col span="1" style="width: 5%;">
+      </colgroup>
+      <tr bgcolor="#B0B1AF">
+        <th>Theme</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Compulsary/Elective</th>
+      </tr>
+      <tr>
+        <td bgcolor="#D8127D">Professional Practice & Enterprise</td>
+        <td >Industry Placement B</td>
+        <td >6 month Industry Placement</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#BD252C">Design Engineering projects</td>
+        <td >Solo Project</td>
+        <td >Major Design Engineering Individual Project</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+      <td bgcolor="#00A3DA">Computing & Electronics</td>
+      <td >Sensing and the Internet of Things</td>
+      <td ></td>
+      <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#D8127D">Professional Practice & Enterprise</td>
+        <td >Enterprise Roll Out</td>
+        <td >Development of an value proposition for a practical enterprise and roll out</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFF101">Engineering</td>
+        <td >Optimisation</td>
+        <td >Introduction to optimisation and development of practical skills in optimisation</td>
+        <td >Compulsory</td>
+      </tr>
+      <tr>
+        <td ></td>
+        <td >Y4 Elective 1</td>
+        <td rowspan="2">Available DE Elective modules can be found here</td>
+        <td >Elective</td>
+      </tr>
+      <tr>
+        <td ></td>
+        <td >Y4 Elective 2</td>
+        <td >Elective</td>
+      </tr>
+    </table>
+  </div>
+ <br>
+
+.. todo:: A link to the available DE electives will be added to the Year 3 and Year 4 module tables.
+
+Industrial Placement
+====================
+
+Students going onto the third and fourth year of the DE MEng take part in a six-month industrial placement intended to give real commercial experience and an opportunity to put the skills acquired into practice.
+
+The placements will run April–September in the third year. Third year exams will be taken early to ensure that all students will be present in College. The School’s Placements Officer, `Talya Porat <https://www.imperial.ac.uk/people/t.porat>`_ (t.porat@imperial.ac.uk) and The UG office will arrange and select a number of appropriate placement companies and industrial supervisors. These will be prepared to provide suitably challenging and well-defined project objectives to students. Companies will be generally expected to pay the students at a level appropriate for a new graduate.
+
+Arranging your placement
+------------------------
+
+During Year 2, sessions will be run with the placement officer to inform you of the placements procedure. Attendance at these sessions is mandatory.
+
+The school will provide a list of companies and pre-agreed placements through an online portal. Students will need to find adverts of interest to them, and then go through the company’s individual application and interview process to secure their placement. Students will also be able to source a position with a company not offered by the College, however, this will need to be approved with the School’s Placements Officer to ensure it is appropriate for the learning outcomes.
+
+Supervision and Assessment
+--------------------------
+
+Students will have one placement tutor (School academic) and one industrial supervisor (a member of staff at the host company). The module will be assessed against objectives by their placement tutor on the basis of an interim and final report, a presentation, an exhibition, and an employer’s report from the industrial supervisor.
+
+Preparation
+-----------
+
+In preparation for your placement it is important that you develop your skills-base in areas relevant to employment and your CV and portfolio. We strongly encourage students to ensure that they manage their projects effectively in DE1, DE2 and DE3 as well as extra-curricular activities and capture the outputs and work for inclusion in your portfolio and CV.
+
+.. important::
+  Unless your industry placement is based in London, you will only need accommodation during T1 and T2 of Year 3. The duration of your placement also means that you will will be working during the summer break between the third and fourth years.
+
+Further information
+-------------------
+
+Early in your Third Year, you will be provided with a separate handbook that contains the most update information on the placement details for your year.
+
+Teaching Themes
+===============
+
+This diagram displays the DE MEng modules organised by teaching themes. Each theme represents a regular forum for the teaching and other relevant staff to discuss and progress all aspects of quality enhancement for their suite of modules. Combining modules into themes aims to facilitate sharing of best practice in teaching and learning and strong vertical co-ordination of curricula and related teaching and learning practice.
+
+Furthermore, this diagram helps understand the relationships between the various modules not just in terms of subject areas, but also in terms of interlinks (knowledge, skills, etc.) between them.
+
+.. todo:: An image of the DE teaching themes will be added here.
+
+Graduation
+==========
+
+With your final-year taught modules examined and your project work written up and presented, the degree programme is over. Academic and administrative staff now integrate all of the module marks and any other relevant information to decide, at a final meeting, the degree class to award.
+
+The Board of Examiners
+----------------------
+
+The Board of Examiners consists of every academic member of staff plus an external examiner.
+
+There are two meetings interspersed with fact-finding activities and reviews, this procedure leads to a final mark for graduating students and to a decision on progression for all others.
+
+The process begins with the collection of all marks registered during the year for every student. Checks are made at this stage to ensure that each student has a mark for each module for which s/he was registered.
+
+Verified marks are next input to a master database which contains the marks brought forward from previous years for each registered student. Finally a program which implements the progression rules for each student’s year of entry is run to update the database and arrive at a mark for the current year.
+
+A Pre-Exam Board Meeting, attended by a core group of academics and administrators including the Examinations Officer and DUGS, takes an overview of the year’s results. Special cases are discussed and exam or coursework marks for modules which may require moderation are identified. The group considers preliminary outcomes for individual students. In particular, College regulations require every candidate who is within 2.5% of a degree class boundary (e.g. who has a mark between 67.5% and 70%) to be considered for promotion. This is increased to 5% where mitigating circumstances are taken into account.
+
+The External Examiners — senior academics from another UK university — now arrive.
+
+They spend a day reviewing all marked examination scripts and coursework marked during the year, concentrating on individual project reports and group project results for students who might be considered for degree class promotion. The Pre Exam Board Meeting and the External Examiners’ visit ensure that all relevant information is reviewed in preparation for the Final Board of Examiners Meeting.
+
+.. important:: The External Examiners may decide, for any reason, that they wish to interview a student in person.
+
+The Final Board of Examiners Meeting is attended by all academic staff (who assess students and are therefore ‘Examiners’), the External examiners and a representative from Registry to advise on procedures and regulations. This is the occasion on which the recommendation for degrees and degree classes (honours) are formally agreed. At this point a decision is made on whether a student passes/fails a year or will be required to take a Supplementary Qualifying Test (SQT)
+
+A decision is also made on:
+
+- Whether to carry the information forward to the following year
+- Whether a graduating student is awarded an appropriate compensation in marks.
+
+.. note:: At no stage is the proportion of results in each degree class used to implement a ‘quota’, or taken into account in any way at all. In theory every student could get a first!
+
+The Graduation Ceremony
+-----------------------
+
+On what the College calls Commemoration Day in late October after your final year, you will arrive at the graduation ceremony as an undergraduate, participate as a graduand and emerge as a graduate.
+
+Invitations are issued during August. The ceremony takes place in the Royal Albert Hall.
+
+Attendance is not required — your degree will be awarded anyway — but few graduands manage to resist the allure of the occasion and the pressure of family and peers.
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/graduation/" role="button" style="margin-bottom:20px;white-space:normal;">Graduation website</a>
+  </div>
