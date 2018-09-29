@@ -26,7 +26,7 @@ Submitting a Mitigating Circumstances Form (MC Form)
 
 If you want the School to take these circumstances into account, you must submit a **MC Form within 5 working days of the assessment date/deadline**.
 
-1. All requests for mitigation should be made on the relevant form:
+1. **All requests for mitigation should be made on the relevant form**:
 
   a. For major examinations, pieces of coursework and projects, and difficulties impacting upon a substantial part of the academic year, use form marked ‘MAJOR’.
 
@@ -34,11 +34,11 @@ If you want the School to take these circumstances into account, you must submit
 
   See the next section for guidance on which form to complete. If you are still uncertain which form is appropriate, you should talk to your Personal Tutor.
 
-2. Complete the form with as much detail as you can. Look at the example MC Forms on BlackBoard if you are uncertain about anything. Don’t forget to date and sign the form.
+2. **Complete the form with as much detail as you can.** Look at the example MC Forms on BlackBoard if you are uncertain about anything. Don’t forget to date and sign the form.
 
   a. For Major Assessments only – along with your form you need to provide proof of your circumstances. The burden of proof is on you.
 
-3. Return the form and any supporting evidence to the Teaching Office either in-person (Third Floor Dyson Building) or via email (a.marsh@imperial.ac.uk)
+3. **Return the form and any supporting evidence** to the Teaching Office either in-person (Third Floor Dyson Building) or via email (a.marsh@imperial.ac.uk)
 
 .. important:: College policy requires that any details you provide remain confidential as far as possible.
 
@@ -47,13 +47,13 @@ Major or Minor assessment?
 
 The MC Form you submit depends on whether the missed assessment is ‘Major’ or ‘Minor’. The following is a guideline. If you are still uncertain which form is appropriate, you should talk to your Personal Tutor, Senior Tutor, or Director of the Programme.
 
-**Minor Assessments** are equivalent to one ECTS or less are considered minor.
+**Minor Assessments** are equivalent to **one ECTS or less** are considered minor.
 
-**Major Assessments** are equivalent to more than one ECTS are considered major.
+**Major Assessments** are equivalent to **more than one ECTS** are considered major.
 
 The ECTS credits allocated to **each module** can be found in: Appendix B - Programme Modules Gantt Chart
 
-.. todo:: fix link
+.. todo:: There is currently a link missing that points to the "Programme Modules Gantt Chart"
 
 You then need to look up what **percentage of the module** your assessment is. This will be in the module handbook, available in the relevant module section of Blackboard.
 
@@ -66,9 +66,9 @@ What happens after I submit the MC Form?
 
 The Mitigating Circumstances Panel meet threes time a year:
 
-- Second week of T2 (for T1-related cases)
-- Second week of T3 (for T2-related cases)
-- First week of Summer holidays (for T3-cases)
+- Second week of Term 2 (for Term-1-related cases)
+- Second week of Term 3 (for Term-2-related cases)
+- First week of Summer holidays (for Term-3-related cases)
 
 You will hear the Panel’s decision within five working days of the panel meeting.
 
@@ -76,14 +76,14 @@ You will hear the Panel’s decision within five working days of the panel meeti
 
 Mitigating Circumstances forms are in the ‘UG Resources’ section of Blackboard
 
-.. todo:: insert the link to the mit circ forms
+.. todo:: The link to "Mitigating Circumstances Forms" is currently missing. You can find this yourself by navigating to the 'UG Resources' section of Blackboard.
 
 Getting Your Results
 ====================
 
 Your results will be loaded onto your eService in early-mid July.
 
-If you are a sponsored student and need your exam results sent to your sponsor, please contact the Student Hub (**Level 3, Sherfield Building**) and they can arrange this for you
+If you are a sponsored student and need your exam results sent to your sponsor, please contact the Student Hub (**Level 3, Sherfield Building**) and they can arrange this for you.
 
 When all assessments for the year have been marked and the marks collated, a series of meetings collectively known as the Board of Examiners — review the results and allocate an overall grade to each student.
 
@@ -101,16 +101,16 @@ In the event that you believe that you have grounds for complaint about academic
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/about/governance/academic-governance/academic-policy/complaints-appeals-and-discipline/" role="button" style="margin-bottom:20px;">Appeal and Complaints Procedures</a></div>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/about/governance/academic-governance/academic-policy/complaints-appeals-and-discipline/" role="button" style="margin-bottom:20px;white-space:normal;">Appeal and Complaints Procedures</a></div>
 
-Supplementary Qualifying Tests (resits)
-=======================================
+Supplementary Qualifying Tests (SQTs/resits)
+============================================
 
 In the case of a fail in one or two modules the Board of Examiners may set a Supplementary Qualifying Test (SQT).
 
 This course of action is only available where the performance in on other modules is very good.
 
-You are not guarenteed to be allowed to sit an SQT.
+You are not guaranteed to be allowed to sit an SQT.
 
 SQTs can take the form of an examination or coursework. The decision on the format is made by the module leader and designed to ensure that the module learning outcomes are achieved.
 
@@ -124,9 +124,7 @@ SQTs are usually done in the summer (generally early September).
 
 .. important:: SQTs must be taken at Imperial College London. The College cannot make arrangements for them to be taken abroad.
 
-More SQT information: Appendix E – Schemes for the Award of Honours on p60
-
-.. todo:: insert link for appendix
+.. todo:: There is a link missing for: More SQT information: Appendix E – Schemes for the Award of Honours
 
 Retaking a Year
 ===============
@@ -154,4 +152,250 @@ In the sixth week of term you will hear a lecture on plagiarism by a representat
 TurnItIn
 --------
 
-.. todo:: complete the rest of assessments page
+The School uses the plagiarism detection site TurnItIn both to filter electronic submissions of coursework via Blackboard and to check electronic duplicates of printed submissions.
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Student Guide to TurnItIn</a>
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">College Plagiarism Information</a>
+  </div>
+
+.. todo:: The links above are currently missing.
+
+Coursework
+==========
+
+The purpose of coursework is to develop your design engineering skills, reinforce lecture material and to develop specific skills in laboratory work, computing, design etc. Most coursework is assessed and contributes towards your degree.
+
+Coursework includes project work, prototypes, presentations, lab reports, project reports, computing exercises and progress tests which are completed and handed in during the year.
+
+.. important:: Do not under any circumstances use any copied or pirated coursework, or allow your work to be copied by others.
+
+   The College treats cheating on coursework exercises exactly the same way as cheating in examinations. If any student is suspected of cheating, of attempting to cheat, or of assisting someone else to cheat, the facts will be reported to the College. If found to have done so, s/he may in consequence be disqualified from all future examinations of the Imperial College.
+
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">College Disciplinary Procedures</a>
+  </div>
+
+.. todo:: The link above is currently broken. You can find this information on the Imperial College webpage.
+
+Late Submission of Coursework
+-----------------------------
+
+Each piece of coursework will have a specified submission date, set in advance and published in the module description.
+
+.. important:: **Coursework submitted between one minute and 24 hours late will be capped at 40%.**
+
+  **Coursework submitted more than 24 hours late will receive 0%.**
+
+  The 24-hours late submission policy does not apply in the following cases, in which any late coursework will be marked 0%:
+
+  - Class tests
+  - Submitting of results/write up from a lab session at the end of the session
+  - Time limited computer programming exercises
+  - Outputs from design days/weeks/activities
+  - Work created from workshop sessions (e.g.. where something is made in a given time)
+  - Measurements, notes, annotated maps etc.., undertaken in the field
+
+Having a major coursework item capped or zeroed due to late submission could lead, in the worst case, to a lower degree classification or even total failure.
+You should allow for potential delays such as computer/ internet/printer glitches or delays to your journey when planning your coursework submissions.
+
+.. important:: Some coursework will be submitted electronically via Blackboard. Once you have submitted your work on Blackboard, Blackboard will provide you with a preview of the file you have submitted. It is your responsibility to ensure that you have submitted the correct file. If you submit the wrong file in error and subsequently miss the coursework deadline, your work will be marked as late and you will receive 40 % or 0% for the work (depending on when the error is spotted by you).
+
+Missed coursework
+-----------------
+
+If your coursework is more than two weeks late, it will be counted as ‘missed coursework’. Missed coursework will receive 0% and will not be marked for feedback even if it is submitted at a later date.
+
+Moderation
+----------
+
+Major items of coursework are double marked. The moderation process is intended to ensure fair and accurate marking and to resolve discrepancies in project report marks between the supervisor and the second marker.
+
+Feedback to Students
+--------------------
+
+The principal objectives of setting coursework are to assess your progress and to help you improve.
+
+The School has a target of 10 **working** days for coursework to be marked and returned to you.
+
+Sometimes circumstances mean that an academic will not be able to achieve this turn-around but they will always notify you if this is the case.
+
+The form of feedback you receive will vary widely, depending on the nature of the submission. A common form is an itemised list of criteria with a tick-box grade for each, along with some written indication of the reason for credit being lost.
+
+Examinations
+============
+
+Most written examinations take place at the start of the term following a module or at the end of the summer term. They will appear in your timetable.
+
+There is no set ‘failure rate’ for exams and therefore no reason why every candidate should not pass at the first attempt.
+
+Past Papers
+-----------
+
+Normally, each examined module provides at least the last two exam papers, with answers or outline solutions, on Blackboard. These provide a useful guide for paper and question style, but cannot be relied on to guide your revision.
+
+Defining what you must be able to do in an exam is the job of the intended learning outcomes given in the module description.
+
+Exam Advice
+-----------
+
+The Imperial Success Guide provides excellent advice on taking university exams.
+
+You should refer to this information regularly.
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/students/success-guide/" role="button" style="margin-bottom:20px;white-space:normal;">The Imperial Success Guide</a></div>
+
+Exam Stress
+-----------
+
+Most people find exams at least a bit stressful. We suggest that you refer to the College Health Centre’s website for advice on how to manage stress.
+
+If you find that you are becoming overwhelmed by stress, there is help available for you.
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Health Centre Advice on Exam Stress</a></div>
+
+.. todo:: The above link currently isn't working. It should be fixed shortly.
+
+Sitting an Exam
+---------------
+
+Your exams will be in your timetable. It will include all of the information that you require including time, date and locations of exams.
+
+.. important:: You must carry your college identity card, so that your CID number can be noted and your identity checked.
+
+The only items you can take into exams are:
+
+- **Pens, pencils, erasers and rulers**. These must either be loose or in a transparent pouch.
+- **Your college identity card**. This must be placed on your desk so that your CID is visible to be noted and your identity checked.
+- **Still water** in a clear plastic bottle with no label.
+- You will be provided, if necessary, with:
+  - **A basic scientific calculator** — you will not be allowed to take your own, or any peripheral equipment. The Casio FX–83ES provided has all the usual scientific functions. If you need to familiarise yourself with this model, the UG Office will issue one on overnight loan (don’t leave this until the last-minute rush).
+
+Other than water in a clear plastic bottle with no label, there is to be no eating or drinking during the exam.
+
+College examination conditions and rules — e.g. the absolute rule against speaking to neighbours — are stated in the Instructions to candidates for examinations and are similar to those for any other public exams.
+
+.. important:: No smart watches or (other watches with functions beyond telling the time) will be allowed in the examination room. There will be at least one clock in each examination room.
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Instructions to Candidates for Examinations</a>
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Handy Exam Guidance</a></div>
+  </div>
+
+.. todo:: The above links currently aren't working. It should be fixed shortly.
+
+.. important:: The instructions on the front page of the answer book fill in a list of questions attempted, start each question on a new page etc. — are there for your protection. Read and obey them!
+
+Consideration of Additional Examinations Arrangements in Respect of Disability
+------------------------------------------------------------------------------
+
+Additional assessment and examination arrangements are provided by the College for individual candidates registered as students of the College who have physical, mental or sensory impairments (whether temporary or permanent) or specific learning difficulties. For further details, please read below.
+
+You should contact the School’s :ref:`disability-officers` if you believe that you are eligible for such arrangements.
+
+.. raw:: html
+
+  <div style="text-align:center;">
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Procedures for consideration of exam arrangements in respect of Disability</a>
+  </div>
+
+.. todo:: The above link currently isn't working. It should be fixed shortly.
+
+Examination Feedback
+--------------------
+
+As soon as you submit an exam script for marking, it becomes the property of the College and you renounce any right to access it.
+
+.. important:: There is no automatic right of appeal against the marks awarded at examination. Students may only appeal against exam results on the grounds of administrative or clerical error and papers will not be remarked.
+
+Each paper is marked by two independent internal examiners, and checked by one external examiner.
+
+Students have the right (on payment of a fee) under the Data Protection Act to sight of any such written comments or annotations. Request must be made to the College Secretariat, with payment of a fee, and annotations will then be transcribed to a separate document for access under carefully supervised conditions.
+
+Grades & Marks for Exams & Coursework
+=====================================
+
+Imperial assesses undergraduate examinations and coursework submissions on a scale of correspondence between percentage mark, letter grade A to E and degree honours class.
+
+**All grades and numerical marks issued during the academic year are provisional.** They are issued to provide feedback and to provide an indication of progress.
+
+Final marks are awarded only after work has been the Board of Examiners has convened (in July).
+
+Ultimately these marks, appropriately weighted, will be used to determine which degree class is awarded.
+
+These correspondences are shown the Table below.
+
++--------+----------------+-------------------------+
+| Grade  | ...corresponds | ...corresponds          |
+| Letter | to mark (%)    | to degree class         |
++========+================+=========================+
+| A*     | 85+            | First class             |
++--------+----------------+ honours                 |
+| A      | 70-84          |                         |
++--------+----------------+-------------------------+
+| B      | 60-69          | 2.1 honours             |
++--------+----------------+-------------------------+
+| C      | 50-59          | 2.2 honours             |
++--------+----------------+-------------------------+
+| D      | 40-49          | Third class honours     |
++--------+----------------+-------------------------+
+| E      | below 40       | Not up to honours level |
++--------+----------------+-------------------------+
+
+Student Prizes and Awards
+=========================
+
+All internal and external awards available to Design Engineering students will be advertised on Blackboard.
+
+The Dean’s List
+---------------
+
+Because Imperial graduates compete in an international market, Imperial has matched the USA practice of recognising the top 10% of A-graded students on a ‘Dean’s list’ — and marking this achievement on the transcript of graduating students.
+
+The conditions are:
+
+- Achieving an overall mark of 70% or greater during the previous 12 months, and
+- Being placed within the top 10% (rounded up) of students in their cohort — e.g., of their year and programme.
+
+DESIRE (Design Engineering Selected Innovation REward)
+------------------------------------------------------
+
+The DESIRE award is a prestigious award within the School. It is something that all students should aspire to win during their degree and it will appear on transcripts of the awardees.
+
+Please note that the DESIRE selected works need not necessarily be associated with the top mark or grade scoring project.
+
+**Which projects get DESIRE awards?**
+
+Not all projects qualify for the DESIRE award. It is only for modules where there is a design engineering output in the form of significant coursework. The project could be a group project or an individual piece of work.
+
+**Selection for the DESIRE award**
+
+The selection of the winner may be done on the day of the assessment or after the completion of the assessment.
+
+The selection will be done by a panel of Design Engineering experts with substantial experience in the unique aspects being assessed for the award.
+
+The chair of the panel will be the module leader.
+
+If the panel decide that none of the submitted work demonstrates significant outstanding quality, then the award will not be issued. This is to retain the quality of the award winning projects.
+
+Winning projects are listed on the School’s award webpage:
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">DESIRE Awards</a></div>
+
+.. todo:: The above link currently isn't working. It should be fixed shortly.
