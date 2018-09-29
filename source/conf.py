@@ -103,8 +103,8 @@ html_context = {
         ],
      }
 
-html_favicon = '_static/favicon.png'
-html_logo = '_static/logo.png'
+# html_favicon = '_static/favicon.png'
+# html_logo = '_static/logo.png'
 
 # -- Options for HTMLHelp output ------------------------------------------
 
