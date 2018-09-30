@@ -7,29 +7,29 @@ Teaching Spaces
 
 Details of which rooms you need to attend will be clearly listed on your calendar.
 
-.. todo:: A reference link to "Appendix A - Map" is missing.
-
 The rooms that we will use most frequently are:
 
 | **Studio 3, Level Three, Dyson Building**
 | Flat floor teaching space
-| (no. 38 on map)
+| (no. 38 on `campus map`_)
 |
 | **2nd Floor Study Space, Level Two, Dyson Building**
 | Flat floor teaching space
-| (no. 38 on map)
+| (no. 38 on `campus map`_)
 |
 | **The Design Library, Level One, Dyson building**
 | Tutorial space
-| (no. 38 on map)
+| (no. 38 on `campus map`_)
 |
 | **EEng 114b Electronics Workshop, Electrical and Electronic Engineering Building**
 | Lecture theatre and lab spaces
-| (no. 16 on Map)
+| (no. 16 on `campus map`_)
 |
 | **266, 252, 254 Roderick Hill Lecture Theatre**
-| (no.7 on map, please see note: `Finding Roderick Hill Lecture Theatres`_)
+| (no.7 on `campus map`_, please see note: `Finding Roderick Hill Lecture Theatres`_)
 |
+
+.. _`campus map`: https://www.imperial.ac.uk/media/imperial-college/visit/public/SouthKensingtonCampus.pdf
 
 Finding Roderick Hill Lecture Theatres
 ======================================
@@ -111,9 +111,7 @@ Project Storage
 
 In the Breakout Space on 2rd Floor, Dyson Building there are project drawers which will operate on a gym style, first-come-first served basis.
 
-These are managed by the School’s Student Reps (see: Student Reps). If you have any issues with these, you should contact the Reps directly.
-
-.. todo:: There is a reference to Student reps here however this information is not yet available.
+These are managed by the School’s :ref:`student-reps`. If you have any issues with these, you should contact the Reps directly.
 
 Otherwise you will be responsible for storing the necessary books and equipment for your courses and ensuring that you bring the correct items with you to classes and sessions.
 
@@ -122,9 +120,7 @@ Otherwise you will be responsible for storing the necessary books and equipment 
 School Workshop
 ===============
 
-The School’s workshop facilities are located on the ground floor of ACE Building (Building no.14 in the map, Appendix A).
-
-.. todo:: The reference to Appendix A above needs to be resolved.
+The School’s workshop facilities are located on the ground floor of ACE Building (Building no.14 on the `campus map`_).
 
 .. important:: Failure to keep the lab spaces safe and tidy may lead to restrictions in your access to College lab spaces.
 
