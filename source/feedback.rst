@@ -46,9 +46,7 @@ This meets termly. Members of the SSCC include all the Student Reps (all Year Re
 
 Students are strongly encouraged to raise questions or concerns at the Staff and Student Committee though their student representatives.
 
-To find your student representative please see 12.2 Student Representatives
-
-.. todo:: Please note that the reference above is not yet available.
+To find your student representative please see :ref:`student-reps`.
 
 UG SOLE Lecturer / Module Survey
 ================================

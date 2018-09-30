@@ -83,6 +83,8 @@ Exams Officer
 | t.nanayakkara@imperial.ac.uk
 |
 
+.. _`safety-officer`:
+
 School Safety Officer
 ---------------------
 
@@ -267,7 +269,7 @@ The Senior Tutor
 | m.ghajari@imperial.ac.uk
 |
 
-The Senior Tutor is responsible for the welfare and academic progress of every undergraduate student in the School, and works with the student representatives to ensure your course is running as smoothly as possible. They can offer personal advice and help to any student on both academic and non-academic matters.
+The Senior Tutor is responsible for the welfare and academic progress of every undergraduate student in the School, and works with the :ref:`student-reps` to ensure your course is running as smoothly as possible. They can offer personal advice and help to any student on both academic and non-academic matters.
 
 The Senior Tutor is also on call during vacations but if for any reason they are unavailable, or you are unsure about who to talk to on a particular issue, please ask any staff member in the UG Office and they will decide who is best able to help you.
 
