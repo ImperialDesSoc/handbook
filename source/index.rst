@@ -2,14 +2,19 @@
 Design Engineering Student Handbook
 ===================================
 
+MEng Design Engineering 2018-19
+===============================
 
+.. warning::
+  This version of the digital handbook is in line with version 8.2 of the PDF version of the handbook. There are however a number of places where information may still be missing. All these places have been marked with a 'Todo' box.
 
-MEng Design Engineering 2017-18
-==================================================
+  If in doubt, please check the PDF version of the handbook which can be found in the 'UG Resources' section of Blackboard.
 
-.. note:: This is a demo version of the digital student handbook. For enquiries, please contact benedict.greenberg15@imperial.ac.uk
+.. note::
+  Please direct any feedback or enquiries about this handbook to benedict.greenberg15@imperial.ac.uk
 
-
+Contents
+========
 
 .. toctree::
    :maxdepth: 2
@@ -26,14 +31,18 @@ MEng Design Engineering 2017-18
    feedback
    years
    general-information
+   appendix
 
 .. toctree::
   :maxdepth: 2
-  :caption: DesEng Society
+  :caption: Student Representation
 
-  imperial-college-union
+  students/reps
+  students/dessoc
+  students/imperial-college-union
 
-Todo List
-=========
+.. toctree::
+  :maxdepth: 2
+  :caption: Other
 
-.. todolist::
+  about-handbook
