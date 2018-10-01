@@ -19,11 +19,9 @@ A professional institution like the Institution of Mechanical Engineers (IMechE)
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">UK Standard for Professional Engineering Competence (EngTech, IEng, CEng)</a>
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Engineering Council - Registering</a>
+  <a class="btn btn-info btn-custom" href="https://www.engc.org.uk/standards-guidance/standards/" role="button" style="margin-bottom:20px;white-space:normal;">UK Standard for Professional Engineering Competence (EngTech, IEng, CEng)</a>
+  <a class="btn btn-info btn-custom" href="https://www.engc.org.uk/informationfor/potential-registrants/" role="button" style="margin-bottom:20px;white-space:normal;">Engineering Council - Registering</a>
   </div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
 
 UROP Placements
 ===============
@@ -39,10 +37,8 @@ Most UROP placements are paid, but not all supervisors have sufficient research 
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">College UROP webpage</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/urop" role="button" style="margin-bottom:20px;white-space:normal;">College UROP webpage</a>
   </div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
 
 Careers Service Sessions
 ========================
@@ -66,7 +62,7 @@ Full details of their services can be found on their webpage.
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">College Careers webpage</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/careers/" role="button" style="margin-bottom:20px;white-space:normal;">College Careers webpage</a>
   </div>
 
 .. todo:: The above link currently isn't working. It should be fixed shortly.
@@ -88,12 +84,42 @@ The College have also created two YouTube videos which also recommended viewing.
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">College Intellectual Property information</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/students/enterprising-students/intellectual-property/" role="button" style="margin-bottom:20px;white-space:normal;">College Intellectual Property information</a>
   </div>
 
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+.. raw:: html
 
-.. todo:: There are two videos that will be embedded here. They are made by the College providing information on IP at Imperial.
+  <style>
+  .iframe-container {
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+    text-align: center;
+  }
+
+  .iframe-container iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  /* 4x3 Aspect Ratio */
+  .iframe-container-4x3 {
+    padding-top: 75%;
+  }
+  </style>
+
+  <div class="iframe-container">
+  <iframe src="https://www.youtube.com/embed/prgL31Nyf-0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+  <br/>
+  <div class="iframe-container">
+  <iframe src="https://www.youtube.com/embed/147K56krTaA?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+  <br/>
 
 Industry Advisory Arrangements
 ==============================
