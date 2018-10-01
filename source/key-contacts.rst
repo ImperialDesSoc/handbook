@@ -20,40 +20,313 @@ Head of School
 
 *The Head of School is responsible to the University for all of the School’s activities, both teaching and research.*
 
-| Professor Peter Childs
-| Floor 1, Dyson Building
-| p.childs@imperial.ac.uk
-|
+.. raw:: html
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    .profile {
+      /* color: red; */
+      display: inline-block;
+      padding: 10px;
+      background-color: #F1F1F1;
+      width: 100%;
+      height: auto;
+      vertical-align: middle;
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    .profile_name {
+      font-weight: bold;
+      width: 100%;
+      padding: 5px;
+      font-size: 1.2em;
+      grid-column-start:2;
+    }
+    .profile_title {
+      /* color: yellow; */
+      width: 100%;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-size: 1em;
+      grid-column-start:2;
+    }
+    .profile_contact {
+      color: orange;
+      width: 100%;
+      word-break: break-all;
+      bottom: 0px;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      grid-column-start:2;
+    }
+
+    .profile_picture {
+      grid-column-start:1;
+      grid-row-start:1;
+      grid-row-end: 5;
+      width:100px;
+      border-radius:3px;
+      display: cover;
+    }
+
+    .grid-container {
+      display: inline-grid;
+      align-content: center;
+      gap: 5px;
+      column-gap: 20px
+    }
+  </style>
+
+  <div>
+    <div class="profile">
+      <div class="grid-container">
+        <img class="profile_picture" style="height:150px!important;" src="_static/profiles/childs_peter.png">
+        <div class="profile_name">Professor Peter Childs</div>
+        <div class="profile_title">Floor 1, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:p.childs@imperial.ac.uk">p.childs@imperial.ac.uk</a></div>
+      </div>
+    </div>
+  </div>
+  <br/>
 
 Director of Undergraduate Studies (DUGS)
 ----------------------------------------
 
 *The DUGS is responsible for all the undergraduate programmes in the School.*
 
-| Dr Lorenzo Picinali
-| Floor 1, Dyson Building
-| l.picinali@imperial.ac.uk
-|
+.. raw:: html
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    .profile {
+      /* color: red; */
+      display: inline-block;
+      padding: 10px;
+      background-color: #F1F1F1;
+      width: 100%;
+      height: auto;
+      vertical-align: middle;
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    .profile_name {
+      font-weight: bold;
+      width: 100%;
+      padding: 5px;
+      font-size: 1.2em;
+      grid-column-start:2;
+    }
+    .profile_title {
+      /* color: yellow; */
+      width: 100%;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-size: 1em;
+      grid-column-start:2;
+    }
+    .profile_contact {
+      color: orange;
+      width: 100%;
+      word-break: break-all;
+      bottom: 0px;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      grid-column-start:2;
+    }
+
+    .profile_picture {
+      grid-column-start:1;
+      grid-row-start:1;
+      grid-row-end: 5;
+      width:100px;
+      border-radius:3px;
+      display: cover;
+    }
+
+    .grid-container {
+      display: inline-grid;
+      align-content: center;
+      gap: 5px;
+      column-gap: 20px
+    }
+  </style>
+
+  <div>
+    <div class="profile">
+      <div class="grid-container">
+        <img class="profile_picture" style="height:150px!important;" src="_static/profiles/picinali_lorenzo.png">
+        <div class="profile_name">Dr Lorenzo Picinali</div>
+        <div class="profile_title">Floor 1, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:l.picinali@imperial.ac.uk">l.picinali@imperial.ac.uk</a></div>
+      </div>
+    </div>
+  </div>
+  <br/>
 
 Senior Tutor
 ------------
 
 *The Senior Tutor is responsible for the welfare and academic progress of every undergraduate student in the School.*
 
-| Dr Mazdak Ghajari
-| Floor 1, Dyson Building
-| m.ghajari@imperial.ac.uk
-|
+.. raw:: html
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    .profile {
+      /* color: red; */
+      display: inline-block;
+      padding: 10px;
+      background-color: #F1F1F1;
+      width: 100%;
+      height: auto;
+      vertical-align: middle;
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    .profile_name {
+      font-weight: bold;
+      width: 100%;
+      padding: 5px;
+      font-size: 1.2em;
+      grid-column-start:2;
+    }
+    .profile_title {
+      /* color: yellow; */
+      width: 100%;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-size: 1em;
+      grid-column-start:2;
+    }
+    .profile_contact {
+      color: orange;
+      width: 100%;
+      word-break: break-all;
+      bottom: 0px;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      grid-column-start:2;
+    }
+
+    .profile_picture {
+      grid-column-start:1;
+      grid-row-start:1;
+      grid-row-end: 5;
+      width:100px;
+      border-radius:3px;
+      display: cover;
+    }
+
+    .grid-container {
+      display: inline-grid;
+      align-content: center;
+      gap: 5px;
+      column-gap: 20px
+    }
+  </style>
+
+  <div>
+    <div class="profile">
+      <div class="grid-container">
+        <img class="profile_picture" style="height:150px!important;" src="_static/profiles/ghajari_mazdak.png">
+        <div class="profile_name">Dr. Mazdak Ghajari</div>
+        <div class="profile_title">Floor 1, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:m.ghajari@imperial.ac.uk">m.ghajari@imperial.ac.uk</a></div>
+      </div>
+    </div>
+  </div>
+  <br/>
 
 Academic Tutor
 --------------
 
 *The Academic Tutor is responsible for ensuring that our Students’ academic experience is optimal and continually improving.*
 
-| Dr Stephen Green
-| Floor 1, Dyson Building
-| stephen.green@imperial.ac.uk
-|
+.. raw:: html
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    .profile {
+      /* color: red; */
+      display: inline-block;
+      padding: 10px;
+      background-color: #F1F1F1;
+      width: 100%;
+      height: auto;
+      vertical-align: middle;
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    .profile_name {
+      font-weight: bold;
+      width: 100%;
+      padding: 5px;
+      font-size: 1.2em;
+      grid-column-start:2;
+    }
+    .profile_title {
+      /* color: yellow; */
+      width: 100%;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-size: 1em;
+      grid-column-start:2;
+    }
+    .profile_contact {
+      color: orange;
+      width: 100%;
+      word-break: break-all;
+      bottom: 0px;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      grid-column-start:2;
+    }
+
+    .profile_picture {
+      grid-column-start:1;
+      grid-row-start:1;
+      grid-row-end: 5;
+      width:100px;
+      border-radius:3px;
+      display: cover;
+    }
+
+    .grid-container {
+      display: inline-grid;
+      align-content: center;
+      gap: 5px;
+      column-gap: 20px
+    }
+  </style>
+
+  <div>
+    <div class="profile">
+      <div class="grid-container">
+        <img class="profile_picture" style="height:150px!important;" src="_static/profiles/green_stephen.png">
+        <div class="profile_name">Dr Stephen Green</div>
+        <div class="profile_title">Floor 1, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:stephen.green@imperial.ac.uk">stephen.green@imperial.ac.uk</a></div>
+      </div>
+    </div>
+  </div>
+  <br/>
+
 
 .. _disability-officers:
 
@@ -62,26 +335,236 @@ Disability Officers
 
 *The School Disability Officer is your first point of contact if you have a physical or learning disability that requires additional support such as special exam arrangements.*
 
-| **intake years 2015-17**
-| Andy Brand
-| Floor 1, Dyson Building
-| andrew.brand@imperial.ac.uk
-|
-| **intake year 2018**
-| Freddie Page
-| Floor 1, Dyson Building
-| freddie.page@imperial.ac.uk
-|
+intake years 2015-17
+********************
+
+.. raw:: html
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    .profile {
+      /* color: red; */
+      display: inline-block;
+      padding: 10px;
+      background-color: #F1F1F1;
+      width: 100%;
+      height: auto;
+      vertical-align: middle;
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    .profile_name {
+      font-weight: bold;
+      width: 100%;
+      padding: 5px;
+      font-size: 1.2em;
+      grid-column-start:2;
+    }
+    .profile_title {
+      /* color: yellow; */
+      width: 100%;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-size: 1em;
+      grid-column-start:2;
+    }
+    .profile_contact {
+      color: orange;
+      width: 100%;
+      word-break: break-all;
+      bottom: 0px;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      grid-column-start:2;
+    }
+
+    .profile_picture {
+      grid-column-start:1;
+      grid-row-start:1;
+      grid-row-end: 5;
+      width:100px;
+      border-radius:3px;
+      display: cover;
+    }
+
+    .grid-container {
+      display: inline-grid;
+      align-content: center;
+      gap: 5px;
+      column-gap: 20px
+    }
+  </style>
+
+  <div>
+    <div class="profile">
+      <div class="grid-container">
+        <img class="profile_picture" style="height:150px!important;" src="_static/profiles/brand_andrew.png">
+        <div class="profile_name">Andy Brand</div>
+        <div class="profile_title">Floor 1, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:andrew.brand@imperial.ac.uk">andrew.brand@imperial.ac.uk</a></div>
+      </div>
+    </div>
+  </div>
+  <br/>
+
+intake year 2018
+****************
+
+.. raw:: html
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    .profile {
+      /* color: red; */
+      display: inline-block;
+      padding: 10px;
+      background-color: #F1F1F1;
+      width: 100%;
+      height: auto;
+      vertical-align: middle;
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    .profile_name {
+      font-weight: bold;
+      width: 100%;
+      padding: 5px;
+      font-size: 1.2em;
+      grid-column-start:2;
+    }
+    .profile_title {
+      /* color: yellow; */
+      width: 100%;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-size: 1em;
+      grid-column-start:2;
+    }
+    .profile_contact {
+      color: orange;
+      width: 100%;
+      word-break: break-all;
+      bottom: 0px;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      grid-column-start:2;
+    }
+
+    .profile_picture {
+      grid-column-start:1;
+      grid-row-start:1;
+      grid-row-end: 5;
+      width:100px;
+      border-radius:3px;
+      display: cover;
+    }
+
+    .grid-container {
+      display: inline-grid;
+      align-content: center;
+      gap: 5px;
+      column-gap: 20px
+    }
+  </style>
+
+  <div>
+    <div class="profile">
+      <div class="grid-container">
+        <img class="profile_picture" style="height:150px!important;" src="_static/profiles/page_freddie.png">
+        <div class="profile_name">Freddie Page</div>
+        <div class="profile_title">Floor 1, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:freddie.page@imperial.ac.uk">freddie.page@imperial.ac.uk</a></div>
+      </div>
+    </div>
+  </div>
+  <br/>
+
 
 Exams Officer
 -------------
 
 *The Exam’s Officer oversees all exams across the School. The Exam Board consists of every academic member of staff and the external examiners.*
 
-| Dr Thrish Nanayakkara
-| Robotics Lab, Level 2, Dyson Building
-| t.nanayakkara@imperial.ac.uk
-|
+.. raw:: html
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    .profile {
+      /* color: red; */
+      display: inline-block;
+      padding: 10px;
+      background-color: #F1F1F1;
+      width: 100%;
+      height: auto;
+      vertical-align: middle;
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    .profile_name {
+      font-weight: bold;
+      width: 100%;
+      padding: 5px;
+      font-size: 1.2em;
+      grid-column-start:2;
+    }
+    .profile_title {
+      /* color: yellow; */
+      width: 100%;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-size: 1em;
+      grid-column-start:2;
+    }
+    .profile_contact {
+      color: orange;
+      width: 100%;
+      word-break: break-all;
+      bottom: 0px;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      grid-column-start:2;
+    }
+
+    .profile_picture {
+      grid-column-start:1;
+      grid-row-start:1;
+      grid-row-end: 5;
+      width:100px;
+      border-radius:3px;
+      display: cover;
+    }
+
+    .grid-container {
+      display: inline-grid;
+      align-content: center;
+      gap: 5px;
+      column-gap: 20px
+    }
+  </style>
+
+  <div>
+    <div class="profile">
+      <div class="grid-container">
+        <img class="profile_picture" style="height:150px!important;" src="_static/profiles/nanayakkara_thrish.png">
+        <div class="profile_name">Dr Thrish Nanayakkara</div>
+        <div class="profile_title">Robotics Lab, Level 2, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:t.nanayakkara@imperial.ac.uk">t.nanayakkara@imperial.ac.uk</a></div>
+      </div>
+    </div>
+  </div>
+  <br/>
 
 .. _`safety-officer`:
 
@@ -90,12 +573,78 @@ School Safety Officer
 
 *The School’s Safety Officer is responsible for the saftey of teaching and research in the School. If you have questions or concerns regarding Health and Safety, you can contact the Safety Officer directly.*
 
-| Dr Connor Myant
-| Floor 3, Dyson Building
-| connor.myant@imperial.ac.uk
-|
+.. raw:: html
 
-.. todo:: Profile images will be added to contacts above. For now, you can refer to the :ref:`school-teaching-staff`
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    .profile {
+      /* color: red; */
+      display: inline-block;
+      padding: 10px;
+      background-color: #F1F1F1;
+      width: 100%;
+      height: auto;
+      vertical-align: middle;
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    .profile_name {
+      font-weight: bold;
+      width: 100%;
+      padding: 5px;
+      font-size: 1.2em;
+      grid-column-start:2;
+    }
+    .profile_title {
+      /* color: yellow; */
+      width: 100%;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-size: 1em;
+      grid-column-start:2;
+    }
+    .profile_contact {
+      color: orange;
+      width: 100%;
+      word-break: break-all;
+      bottom: 0px;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      grid-column-start:2;
+    }
+
+    .profile_picture {
+      grid-column-start:1;
+      grid-row-start:1;
+      grid-row-end: 5;
+      width:100px;
+      border-radius:3px;
+      display: cover;
+    }
+
+    .grid-container {
+      display: inline-grid;
+      align-content: center;
+      gap: 5px;
+      column-gap: 20px
+    }
+  </style>
+
+  <div>
+    <div class="profile">
+      <div class="grid-container">
+        <img class="profile_picture" style="height:150px!important;" src="_static/profiles/myant_connor.png">
+        <div class="profile_name">Dr Connor Myant</div>
+        <div class="profile_title">Floor 3, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:connor.myant@imperial.ac.uk">connor.myant@imperial.ac.uk</a></div>
+      </div>
+    </div>
+  </div>
+  <br/>
 
 Year Coordinators
 =================
@@ -179,8 +728,6 @@ There will usually be someone in Third Floor, Dyson Building on Monday – Frida
       margin-bottom: 10px;
       margin-left: 5px;
       margin-right: 5px;
-      border-radius: 5px;
-      box-shadow: 5px 5px 8px #888888;
     }
     .profile_name {
       font-weight: bold;
@@ -231,7 +778,8 @@ There will usually be someone in Third Floor, Dyson Building on Monday – Frida
         <img class="profile_picture" style="height:150px!important;" src="_static/profiles/marsh_alex.png">
         <div class="profile_name">Alex Marsh</div>
         <div class="profile_title">Senior UG & PG Administrator</div>
-        <div class="profile_contact"><a href="mailto:a.marsh@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+        <div class="profile_title">Third Floor, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:a.marsh@imperial.ac.uk">a.marsh@imperial.ac.uk</a></div>
       </div>
     </div>
     <div class="profile">
@@ -239,7 +787,8 @@ There will usually be someone in Third Floor, Dyson Building on Monday – Frida
         <img class="profile_picture" style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/cooley_jen.png">
         <div class="profile_name">Jen Cooley</div>
         <div class="profile_title">UG & PG Administrator</div>
-        <div class="profile_contact"><a href="mailto:j.cooley@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+        <div class="profile_title">Third Floor, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:j.cooley@imperial.ac.uk">j.cooley@imperial.ac.uk</a></div>
       </div>
     </div>
     <div class="profile">
@@ -247,7 +796,8 @@ There will usually be someone in Third Floor, Dyson Building on Monday – Frida
         <img class="profile_picture" style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/richards_lucie.png">
         <div class="profile_name">Lucie Richards</div>
         <div class="profile_title">UG & PG Administrator</div>
-        <div class="profile_contact"><a href="mailto:lucie.richards@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+        <div class="profile_title">Third Floor, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:lucie.richards@imperial.ac.uk">lucie.richards@imperial.ac.uk</a></div>
       </div>
     </div>
     <div class="profile">
@@ -255,7 +805,8 @@ There will usually be someone in Third Floor, Dyson Building on Monday – Frida
         <img class="profile_picture" style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/skyes_sophie.png">
         <div class="profile_name">Sophie Skyes</div>
         <div class="profile_title">Office Assistant</div>
-        <div class="profile_contact"><a href="mailto:s.skyes@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
+        <div class="profile_title">Third Floor, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:s.skyes@imperial.ac.uk">s.skyes@imperial.ac.uk</a></div>
       </div>
     </div>
   </div>
@@ -264,10 +815,78 @@ There will usually be someone in Third Floor, Dyson Building on Monday – Frida
 The Senior Tutor
 ================
 
-| Dr. Mazdak Ghajari
-| Floor 1, Dyson Building
-| m.ghajari@imperial.ac.uk
-|
+.. raw:: html
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    .profile {
+      /* color: red; */
+      display: inline-block;
+      padding: 10px;
+      background-color: #F1F1F1;
+      width: 100%;
+      height: auto;
+      vertical-align: middle;
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    .profile_name {
+      font-weight: bold;
+      width: 100%;
+      padding: 5px;
+      font-size: 1.2em;
+      grid-column-start:2;
+    }
+    .profile_title {
+      /* color: yellow; */
+      width: 100%;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-size: 1em;
+      grid-column-start:2;
+    }
+    .profile_contact {
+      color: orange;
+      width: 100%;
+      word-break: break-all;
+      bottom: 0px;
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      grid-column-start:2;
+    }
+
+    .profile_picture {
+      grid-column-start:1;
+      grid-row-start:1;
+      grid-row-end: 5;
+      width:100px;
+      border-radius:3px;
+      display: cover;
+    }
+
+    .grid-container {
+      display: inline-grid;
+      align-content: center;
+      gap: 5px;
+      column-gap: 20px
+    }
+  </style>
+
+  <div>
+    <div class="profile">
+      <div class="grid-container">
+        <img class="profile_picture" style="height:150px!important;" src="_static/profiles/ghajari_mazdak.png">
+        <div class="profile_name">Dr. Mazdak Ghajari</div>
+        <div class="profile_title">Floor 1, Dyson Building</div>
+        <div class="profile_contact"><a href="mailto:m.ghajari@imperial.ac.uk">m.ghajari@imperial.ac.uk</a></div>
+      </div>
+    </div>
+  </div>
+  <br/>
 
 The Senior Tutor is responsible for the welfare and academic progress of every undergraduate student in the School, and works with the :ref:`student-reps` to ensure your course is running as smoothly as possible. They can offer personal advice and help to any student on both academic and non-academic matters.
 
