@@ -145,17 +145,13 @@ Temporarily ceasing to be a student can create significant problems: details of 
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Registry Information on Interruption of Studies</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/student-records-and-data/for-current-students/undergraduate-and-taught-postgraduate/changes-to-registration-status/" role="button" style="margin-bottom:20px;white-space:normal;">Registry Information on Interruption of Studies</a>
   </div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
 
 Degree Overview
 ===============
 
-A schematic overview of the academic curriculum is given in Appendix B - Programme Modules Gantt Chart on p 62.
-
-.. todo:: The reference above to the Appendix will be fixed.
+A schematic overview of the academic curriculum is given in :ref:`appendix-module-gantt`.
 
 Every teaching and learning activity is part of a module, which is taught in a specific year of the course (DE1 to DE4). These are grouped in board themes, listed below.
 
@@ -373,7 +369,7 @@ Third Year
       <tr>
         <td ></td>
         <td >Y3 Elective 1</td>
-        <td rowspan="2">Available DE Elective modules can be found here</td>
+        <td rowspan="2">Available DE Elective modules can be found <a href="http://www.imperial.ac.uk/design-engineering/study/meng/modules/">here</a></td>
         <td >Elective</td>
       </tr>
       <tr>
@@ -439,7 +435,7 @@ The fourth year offers several electives, allowing a greater degree of specialis
       <tr>
         <td ></td>
         <td >Y4 Elective 1</td>
-        <td rowspan="2">Available DE Elective modules can be found here</td>
+        <td rowspan="2">Available DE Elective modules can be found <a href="http://www.imperial.ac.uk/design-engineering/study/meng/modules/">here</a></td>
         <td >Elective</td>
       </tr>
       <tr>
@@ -450,8 +446,6 @@ The fourth year offers several electives, allowing a greater degree of specialis
     </table>
   </div>
  <br>
-
-.. todo:: A link to the available DE electives will be added to the Year 3 and Year 4 module tables.
 
 Industrial Placement
 ====================
@@ -492,7 +486,7 @@ This diagram displays the DE MEng modules organised by teaching themes. Each the
 
 Furthermore, this diagram helps understand the relationships between the various modules not just in terms of subject areas, but also in terms of interlinks (knowledge, skills, etc.) between them.
 
-.. todo:: An image of the DE teaching themes will be added here.
+.. image:: _static/teaching-themes.png
 
 Graduation
 ==========
