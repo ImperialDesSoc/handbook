@@ -20,30 +20,47 @@ Programme Module Gantt Chart
 
 .. image:: _static/module-gantt.png
 
-.. todo:: Programme Modules Gantt Chart is missing.
+Student Feedback Chart
+======================
 
-.. todo:: Student Feedback Chart is missing.
+.. image:: _static/student-feedback-chart.png
 
-.. todo:: Assessment methods table is missing.
+Assessment methods
+==================
+
+.. image:: _static/assessment-methods.png
 
 .. _`appendix-honours`:
 
 Scheme for the Award of Honours
 ===============================
 
-.. todo:: Roles and responsibilities of Wellbeing Reps is missing.
+.. todo:: Scheme for the Award of Honours
+
+.. _`appendix-wellbeing-rep`:
+
+Roles and responsibilities of Wellbeing Reps
+============================================
+
+.. todo:: Roles and responsibilities of Wellbeing Reps
 
 .. _`appendix-laptop-purchase`:
 
 Advice and FAQ on Laptop Purchases
 ==================================
 
+.. todo:: Advice and FAQ on Laptop Purchases
+
 .. _`appendix-laptop-loan`:
 
 Laptop Loan System
 ==================
 
+.. todo:: Laptop Loan System
+
 .. _`appendix-adobe`:
 
 Adobe Creative Cloud License Arrangement
 ========================================
+
+.. todo:: Adobe Creative Cloud License Arrangement
