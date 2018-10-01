@@ -54,15 +54,18 @@ On weekdays during the Christmas and Easter closures, the Health Centre runs an 
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Find a Doctor</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/student-space/here-for-you/find-a-doctor/" role="button" style="margin-bottom:20px;white-space:normal;">Find a Doctor</a>
   <a class="btn btn-info btn-custom" href="https://www.imperialcollegehealthcentre.co.uk" role="button" style="margin-bottom:20px;white-space:normal;">Health Centre website</a>
   <a class="btn btn-info btn-custom" href="https://www.nhs.uk" role="button" style="margin-bottom:20px;white-space:normal;">National Health Service website</a>
   </div>
 
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+.. tip:: For students who are not based at the South Kensington Campus, but are still in the Chelsea/Fulham area then you could reregister your NHS clinic to one run by GP at Hand. Powered by Babylon, this GP clinic gives you 24/7 access to a GP via an easy to book video call.
 
-.. todo:: Notes/tip about Babylon will be added here.
+.. raw:: html
 
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="https://www.gpathand.nhs.uk" role="button" style="margin-bottom:20px;white-space:normal;">GP at hand</a>
+  </div>
 
 Out of Hours Service
 --------------------
@@ -134,10 +137,8 @@ If you are planning to use a bicycle in London, please be careful and lock it se
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Information Security Policy</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/secretariat/college-governance/charters/policies-regulations-and-codes-of-practice/information-security-/" role="button" style="margin-bottom:20px;white-space:normal;">Information Security Policy</a>
   </div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
 
 .. important::
   If you lose anything, report it promptly to the security officer in Sherfield building (no. 20 on :ref:`campus map <appendix-map>`, internal tel. 4444). It is especially important to report a lost or stolen id card. If you find an ID card or any apparently lost property in the school, please hand it into the undergraduate office or postgraduate office.
@@ -146,10 +147,8 @@ If you are planning to use a bicycle in London, please be careful and lock it se
 
   <div style="text-align:center">
   <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/estates-facilities/security/" role="button" style="margin-bottom:20px;white-space:normal;">College Security website</a>
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Securing your bike</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/estates-facilities" role="button" style="margin-bottom:20px;white-space:normal;">Securing your bike</a>
   </div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
 
 Your ID Card
 ============
@@ -174,10 +173,8 @@ The College has the right to investigate any allegation of misconduct against a 
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Student Disciplinary Procedure</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/secretariat/college-governance/charters/ordinances/students/" role="button" style="margin-bottom:20px;white-space:normal;">Student Disciplinary Procedure</a>
   </div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
 
 Smoke-Free Policy
 =================
