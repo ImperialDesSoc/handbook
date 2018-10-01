@@ -4,18 +4,15 @@
 Student Representatives
 =======================
 
-In our School, the Union has two Department Reps (one academic and one well-being), and two Year Reps (one academic and one well-being) for each year group.
+In our School, the Union has two Department Reps (one academic and one well-being), and two Year Reps (one academic and one well-being) for each year group. More information on the well-being role can be found in :ref:`appendix-wellbeing-rep`.
 
-You can find the description of these roles here:
+You can find the description provided by the IC Union of these roles here:
 
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Academic Rep Description</a>
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Well-being Rep Description</a>
+  <a class="btn btn-info btn-custom" href="https://www.imperialcollegeunion.org/your-union/your-representatives/a-to-z/design-engineering-ug" role="button" style="margin-bottom:20px;white-space:normal;">About Reps</a>
   </div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
 
 Your Reps
 ---------
