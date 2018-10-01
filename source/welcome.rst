@@ -92,8 +92,8 @@ Meet the School Teaching Staff
       margin-bottom: 10px;
       margin-left: 5px;
       margin-right: 5px;
-      border-radius: 5px;
-      box-shadow: 5px 5px 8px #888888;
+      /* border-radius: 5px;
+      box-shadow: 5px 5px 8px #888888; */
     }
     .profile_name {
       font-weight: bold;
@@ -295,5 +295,4 @@ Meet the School Teaching Staff
       <div class="profile_contact"><a href="mailto:billy.wu@imperial.ac.uk"><i class="fa fa-envelope"></i> Email</a></div>
     </div>
   </div>
-
-.. todo:: These profiles will be updated to include links to the Imperial staff professional pages.
+  <br/>
