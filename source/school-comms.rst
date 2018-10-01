@@ -98,6 +98,8 @@ Some of the lectures given in theatres are equipped with Panopto. This records t
 
 **Note** that if a session is being recorded and for any reason you do not wish to be part of that recording, please sit in an ‘off-camera’ area (ask the lecturer if you are in doubt) — and reserve any questions to the lecturer until recording has ended.
 
+.. image:: _static/lecture.jpg
+
 Many students find lecture videos a valuable resource for review and revision. However, a recording cannot possibly replace the shared learning experience of the live lecture, and cannot be relied on for completeness. Occasionally, video capture partially or completely fails.
 
 .. raw:: html

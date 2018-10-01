@@ -15,9 +15,7 @@ In order to undertake the MEng in October 2018, you will need to have a laptop c
 - 256 GB SSD HDD
 - NVIDIA K1100M or higher graphics card
 
-More details and advice on laptop purchasing is in Appendix G (link).
-
-.. todo:: Note the above reference is to Prof. Peter Cheung's advice that will be added at a later date.
+More details and advice on laptop purchasing is in :ref:`appendix-laptop-purchase`.
 
 Regular maintenance
 -------------------
@@ -31,15 +29,11 @@ You will be responsible for basic laptop upkeep of your laptop. You must arrange
 
 It is recommended that at least once a year you take your laptop to ICT for a ‘wipe-out’ to restore the laptop’s original performances.
 
-.. todo:: The advice above will be updated.
-
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">College IT Security Advice</a>
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">ICT Resources for new students</a></div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/be-secure/" role="button" style="margin-bottom:20px;white-space:normal;">College IT Security Advice</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/new-to-imperial/students/" role="button" style="margin-bottom:20px;white-space:normal;">ICT Resources for new students</a></div>
 
 Imperial College Laptop Surgery
 -------------------------------
@@ -49,9 +43,7 @@ If you have a non-School laptop and have software issues, you can take it to the
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">College Laptop Surgery</a></div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/admin-services/ict/training-and-resources/laptop-surgery/" role="button" style="margin-bottom:20px;white-space:normal;">College Laptop Surgery</a></div>
 
 Students who joined 2015-17: what to do if your School Laptop breaks
 --------------------------------------------------------------------
@@ -73,10 +65,13 @@ The loan laptops are not be taken out of the Dyson building.
 
 Borrowing a laptop is like borrowing a library book. If you do not return it within the due period, **an overdue fine will be incurred.**
 
+A full guide to how the loan laptop system works is in :ref:`appendix-laptop-loan`.
+
 College ICT Support
 ===================
 
-.. important:: Back-up your digital work regularly!
+.. important::
+  Back-up your digital work regularly!
 
   Security breaches and hardware failure can lead to losing your work. It is your responsibility to protect against this.
 
@@ -93,16 +88,15 @@ ICT Access
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">24/7 Support: ASK ICT</a></div>
+  <a class="btn btn-info btn-custom" href="https://imperial.service-now.com/ict/" role="button" style="margin-bottom:20px;white-space:normal;">24/7 Support: ASK ICT</a></div>
 
-.. todo:: The above link currently isn't working. It should be fixed shortly.
-
-.. note:: All staff and students are bound by the conditions of use for IT facilities.
-
-.. todo:: A link for the "conditions of use for IT facilities" will be added.
+.. note::
+  All staff and students are bound by the `conditions of use for IT facilities <https://www.imperial.ac.uk/admin-services/ict/self-service/computers-printing/campus-computers/conditions-of-use-for-it-facilities/>`_.
 
 Software
 ========
+
+.. image:: _static/software.png
 
 The School will provide access to any software that you may need for the course. Imperial College has agreements with many companies such that students could install some software free on their own personal machine.
 
@@ -111,17 +105,14 @@ Please check out this web-page to see what software is available for you while b
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Software for Students</a></div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/admin-services/ict/store/software/software-for-students/" role="button" style="margin-bottom:20px;white-space:normal;">Software for Students</a></div>
 
 Some packages are only available on the School’s loan laptops. To use these, you must borrow one of the loan machines and use it within the School’s building.
 
 **Adobe Creative Cloud CC**
 
-Adobe Creative Cloud CC (the full suite of creative software) will be installed on all the loan laptops.
-
-Additionally each DE Year Group will have access to Adobe CC on their personal laptops for one term each year.
+Adobe Creative Cloud CC (the full suite of creative software) will be installed on all the loan laptops. Additionally each DE Year Group will have access to Adobe CC on their personal laptops for one term each year.
+More information on the arrangements for CC can be found in :ref:`appendix-adobe`.
 
 Printing
 ========
@@ -131,9 +122,7 @@ It is possible to print to the communal college printers from your School issued
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">How to printed</a></div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/computers-printing/printing/" role="button" style="margin-bottom:20px;white-space:normal;">How to print</a></div>
 
 Printing to communal College printers and using the photocopiers costs money. You can purchase printer credits to charge your card at the Central Library or online.
 
@@ -154,11 +143,10 @@ Some projects may require that you design a poster to present your work. Posters
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Service Point</a></div>
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/admin-services/finance/purchasing/recommended-suppliers/by-product-type/print/" role="button" style="margin-bottom:20px;white-space:normal;">Service Point</a></div>
 
-.. todo:: The above link currently isn't working. It should be fixed shortly.
-
-.. important:: Ensure you allow sufficient time for the turnaround of printing tasks.
+.. important::
+  Ensure you allow sufficient time for the turnaround of printing tasks.
 
 Internet Access
 ===============
@@ -170,9 +158,7 @@ An account for access to IT facilities was created for you on registration, and 
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">How to access the College network</a></div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/wifi-and-networks/" role="button" style="margin-bottom:20px;white-space:normal;">How to access the College network</a></div>
 
 .. important::
   In your contract as a student you have agreed to abide by the Conditions of Use of IT Services. These conditions concern anti-social behaviour by which other users can be affected and areas of misuse which come under UK Law.
@@ -191,6 +177,6 @@ We recommend that you download this app.
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Download Imperial Mobile App</a></div>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/students/online-services/mobile/" role="button" style="margin-bottom:20px;white-space:normal;">Download Imperial Mobile App</a></div>
 
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+.. image:: _static/app.png

@@ -14,6 +14,8 @@ First and foremost, please take time to explore the new Imperial Success Guide s
   <div style="text-align:center">
   <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/students/success-guide/" role="button" style="margin-bottom:20px;">The Imperial Success Guide</a></div>
 
+.. image:: _static/success-guide.jpg
+
 English Classes
 ===============
 
@@ -138,6 +140,8 @@ Central Library
 ===============
 
 The College’s Central Library is next to the Sherfield Building. It provides access to high quality resources including electronic journals, databases, textbooks, print journals and maps. PCs and wireless access to the College computing network are also available.
+
+.. image:: _static/library.jpg
 
 Much more information is available on the library’s website, and you will be given an induction course during the first week of term. Like every other department, we have a School Librarian to guide and support your access to central library resources.
 

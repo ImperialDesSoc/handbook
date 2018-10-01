@@ -31,6 +31,11 @@ The rooms that we will use most frequently are:
 
 .. _`campus map`: https://www.imperial.ac.uk/media/imperial-college/visit/public/SouthKensingtonCampus.pdf
 
+.. important::
+  Lecture and tutorial rooms may change week to week. Always check which room your class is being held in each week.
+
+.. image:: _static/teaching.png
+
 Finding Roderick Hill Lecture Theatres
 ======================================
 
@@ -39,9 +44,7 @@ A lecture theatre that we will be using quite frequently is Roderick Hill 266. T
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">How to find Roderick Hill 266</a></div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/rodh-266/" role="button" style="margin-bottom:20px;white-space:normal;">How to find Roderick Hill 266</a></div>
 
 Social Study Space
 ==================
@@ -49,6 +52,8 @@ Social Study Space
 From 1200 noon each day, the 2nd Floor Study Space in the Dyson Building is available for all students to use as a communal study/social area.
 
 This area contains PC/laptop benching, comfortable seating, and a kitchen unit.
+
+.. image:: _static/social-study.png
 
 Meeting Rooms
 =============
@@ -78,13 +83,13 @@ How to find the Observatory Building
 
 The Observatory Building will eventually be joined via a link bridge to the main Dyson Building. Until then, you need to exit the Dyson Building and walk around the side to enter the Observatory Building.
 
-.. todo:: There is a missing image here showing the entry point to the building.
+.. image:: _static/observatory.png
 
 1. From Imperial College Road take the side road with the zebra crossing on it (opposite Skempton Building).
 
 2. Follow the road as it turns left and slopes down towards the black fire escape on the exterior of the Observatory Building.
 
-.. todo:: There is a missing image here showing the entry point to the building.
+.. image:: _static/observatory2.png
 
 3. Take the stairs to the black door on the second landing (DesEng Staff card access needed)
 
@@ -104,7 +109,11 @@ Chemicals cannot be stored in the ACE lab without the prior agreement of the Sch
 
 **Email Head Technician, Ms. Ingrid Logan: i.logan@imperial.ac.uk**
 
-.. todo:: There is a missing link here to "Download COSHH form"
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/secure/login/?requested=L21lZGlhL2ltcGVyaWFsLWNvbGxlZ2UvZmFjdWx0eS1vZi1lbmdpbmVlcmluZy9lbGVjdHJpY2FsLWFuZC1lbGVjdHJvbmljLWVuZ2luZWVyaW5nL2ludGVybmFsL29zZC9DT1NISC1PY3RvYmVyLTIwMTYtYmxhbmsuZG9j&signature=M2Y1YzJjOWM3MGZlNWRjNmMxYmRjY2RhYjJmYTFkZmQwYjc0MjBlMDk0YTIxZmEzMTMxZDZhMDFjODEyZjExNzY2OGQwNGM2MjUyNjZlN2NhZGZjYmVlN2UzZGI4MWVmOTliZWE5YjdiOGI4MmM0MjdhZWM2ODk5OWFmOTZlMTY&error=6" role="button" style="margin-bottom:20px;white-space:normal;">Download COSHH form</a>
+  </div>
 
 Project Storage
 ---------------
@@ -115,7 +124,7 @@ These are managed by the School’s :ref:`student-reps`. If you have any issues 
 
 Otherwise you will be responsible for storing the necessary books and equipment for your courses and ensuring that you bring the correct items with you to classes and sessions.
 
-.. todo:: There is an image missing here showing an example of student storage space.
+.. image:: _static/storage.png
 
 School Workshop
 ===============
@@ -123,6 +132,14 @@ School Workshop
 The School’s workshop facilities are located on the ground floor of ACE Building (Building no.14 on the `campus map`_).
 
 .. important:: Failure to keep the lab spaces safe and tidy may lead to restrictions in your access to College lab spaces.
+
+Up to date information on the workshop facilities and procedures, can be found here:
+
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="https://docs.google.com/document/d/1hY0UzR169tsnO_m6JcdOWHx8cRAGFgMwkfHe-fTrbfI/edit" role="button" style="margin-bottom:20px;white-space:normal;">Dyson School Workshop Details</a>
+  </div>
 
 **The ACE Lab Project Development Area**
 
@@ -196,15 +213,15 @@ You will be issued with one set of glasses, a boiler suit and a lab coat for fre
       padding: 10px;
       background-color: #E3E3E3;
       width: 120px;
-      height: 300px;
+      height: 250px;
       vertical-align: middle;
       position: relative;
       margin-top: 10px;
       margin-bottom: 10px;
       margin-left: 5px;
       margin-right: 5px;
-      border-radius: 5px;
-      box-shadow: 5px 5px 8px #888888;
+      /* border-radius: 5px;
+      box-shadow: 5px 5px 8px #888888; */
     }
     .profile_name {
       font-weight: bold;
@@ -232,26 +249,27 @@ You will be issued with one set of glasses, a boiler suit and a lab coat for fre
 
   <div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/logan_ingrid.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;object-fit: cover;" src="_static/profiles/logan_ingrid.png">
       <div class="profile_name">Ingrid Logan</div>
       <div class="profile_title">Head Technician</div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/rahman_saadiqah.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;object-fit: cover;" src="_static/profiles/rahman_saadiqah.png">
       <div class="profile_name">Saadiqah Rahman</div>
       <div class="profile_title">Technician</div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/addy_gordon.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;object-fit: cover;" src="_static/profiles/addy_gordon.png">
       <div class="profile_name">Gordon Addy</div>
       <div class="profile_title">Technician</div>
     </div>
     <div class="profile">
-      <img style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/jupp_darren.png">
+      <img style="width:100px;height:150px!important;border-radius:3px;object-fit: cover;" src="_static/profiles/jupp_darren.png">
       <div class="profile_name">Darren Jupp</div>
       <div class="profile_title">Technician</div>
     </div>
   </div>
+  <br/>
 
 Please be courteous and professional to all workshop personnel.
 

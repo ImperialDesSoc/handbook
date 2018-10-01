@@ -51,9 +51,7 @@ The MC Form you submit depends on whether the missed assessment is ‘Major’ o
 
 **Major Assessments** are equivalent to **more than one ECTS** are considered major.
 
-The ECTS credits allocated to **each module** can be found in: Appendix B - Programme Modules Gantt Chart
-
-.. todo:: There is currently a link missing that points to the "Programme Modules Gantt Chart"
+The ECTS credits allocated to **each module** can be found in :ref:`appendix-module-gantt`.
 
 You then need to look up what **percentage of the module** your assessment is. This will be in the module handbook, available in the relevant module section of Blackboard.
 
@@ -76,7 +74,10 @@ You will hear the Panel’s decision within five working days of the panel meeti
 
 Mitigating Circumstances forms are in the ‘UG Resources’ section of Blackboard
 
-.. todo:: The link to "Mitigating Circumstances Forms" is currently missing. You can find this yourself by navigating to the 'UG Resources' section of Blackboard.
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="https://bb.imperial.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_676549_1&course_id=_7973_1&mode=reset" role="button" style="margin-bottom:20px;white-space:normal;">Mitigating Circumstances Forms on BlackBoard</a></div>
 
 Getting Your Results
 ====================
@@ -124,7 +125,8 @@ SQTs are usually done in the summer (generally early September).
 
 .. important:: SQTs must be taken at Imperial College London. The College cannot make arrangements for them to be taken abroad.
 
-.. todo:: There is a link missing for: More SQT information: Appendix E – Schemes for the Award of Honours
+.. note::
+  More information on SQTs can be found in the Appendix: :ref:`appendix-honours`.
 
 Retaking a Year
 ===============
@@ -157,11 +159,9 @@ The School uses the plagiarism detection site TurnItIn both to filter electronic
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Student Guide to TurnItIn</a>
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">College Plagiarism Information</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/teaching-learning/elearning-services/turnitin/" role="button" style="margin-bottom:20px;white-space:normal;">Student Guide to TurnItIn</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/library/learning-support/plagiarism-awareness/undergraduates/" role="button" style="margin-bottom:20px;white-space:normal;">College Plagiarism Information</a>
   </div>
-
-.. todo:: The links above are currently missing.
 
 Coursework
 ==========
@@ -169,6 +169,8 @@ Coursework
 The purpose of coursework is to develop your design engineering skills, reinforce lecture material and to develop specific skills in laboratory work, computing, design etc. Most coursework is assessed and contributes towards your degree.
 
 Coursework includes project work, prototypes, presentations, lab reports, project reports, computing exercises and progress tests which are completed and handed in during the year.
+
+.. image:: _static/coursework.png
 
 .. important:: Do not under any circumstances use any copied or pirated coursework, or allow your work to be copied by others.
 
@@ -178,10 +180,8 @@ Coursework includes project work, prototypes, presentations, lab reports, projec
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">College Disciplinary Procedures</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/regulations/2014-15/student-regs/Regulations-for-Students.pdf" role="button" style="margin-bottom:20px;white-space:normal;">College Disciplinary Procedures</a>
   </div>
-
-.. todo:: The link above is currently broken. You can find this information on the Imperial College webpage.
 
 Late Submission of Coursework
 -----------------------------
@@ -263,9 +263,7 @@ If you find that you are becoming overwhelmed by stress, there is help available
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Health Centre Advice on Exam Stress</a></div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+  <a class="btn btn-info btn-custom" href="https://www.imperialcollegehealthcentre.co.uk/exams-and-stress/" role="button" style="margin-bottom:20px;white-space:normal;">Health Centre Advice on Exam Stress</a></div>
 
 Sitting an Exam
 ---------------
@@ -291,11 +289,9 @@ College examination conditions and rules — e.g. the absolute rule against spea
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Instructions to Candidates for Examinations</a>
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Handy Exam Guidance</a></div>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/exam-arrangements-and-re-sits/Instructions-to-candidates-for-examinations.pdf" role="button" style="margin-bottom:20px;white-space:normal;">Instructions to Candidates for Examinations</a>
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/students/success-guide/ug/assessments-and-feedback/examinations/sitting-examinations/" role="button" style="margin-bottom:20px;white-space:normal;">Handy Exam Guidance</a></div>
   </div>
-
-.. todo:: The above links currently aren't working. It should be fixed shortly.
 
 .. important:: The instructions on the front page of the answer book fill in a list of questions attempted, start each question on a new page etc. — are there for your protection. Read and obey them!
 
@@ -309,10 +305,8 @@ You should contact the School’s :ref:`disability-officers` if you believe that
 .. raw:: html
 
   <div style="text-align:center;">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">Procedures for consideration of exam arrangements in respect of Disability</a>
+  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/exam-arrangements-and-re-sits/Exam-arrangements-in-respect-of-disability.pdf" role="button" style="margin-bottom:20px;white-space:normal;">Procedures for consideration of exam arrangements in respect of Disability</a>
   </div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
 
 Examination Feedback
 --------------------
@@ -396,6 +390,4 @@ Winning projects are listed on the School’s award webpage:
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;white-space:normal;">DESIRE Awards</a></div>
-
-.. todo:: The above link currently isn't working. It should be fixed shortly.
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/design-engineering/study/meng/desire/" role="button" style="margin-bottom:20px;white-space:normal;">DESIRE Awards</a></div>
