@@ -115,15 +115,14 @@ More information on Departmental Disability Officers is available at:
   <div style="text-align:center">
   <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;">College DDO Information</a></div>
 
+.. todo:: The above link currently does not work but will be updated soon.
 
 More information on procedures for the consideration of additional exam arrangements in respect of disability is available at:
 
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;">Exam arrangements and disability</a></div>
-
-.. todo:: The above links currently do not work but will be updated soon.
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/student-records-and-data/for-current-students/undergraduate-and-taught-postgraduate/exams-assessments-and-regulations/additional-exam-arrangements-in-respect-of-disability/" role="button" style="margin-bottom:20px;">Exam arrangements and disability</a></div>
 
 Evening Classes
 ===============
