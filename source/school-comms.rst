@@ -126,9 +126,7 @@ The easiest and most reliable way to view your calendar is via iCalendar.
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;">iCalendar</a></div>
-
-.. todo:: The link above currently does not work but should be repaired soon. You may have received your link from registry via email.
+  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/timetabling/view/icalendar/" role="button" style="margin-bottom:20px;">iCalendar</a></div>
 
 Timetables are subject to last minute changes so you should get in the habit of checking your timetable regularly.
 
