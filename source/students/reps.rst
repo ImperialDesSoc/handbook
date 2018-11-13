@@ -4,15 +4,21 @@
 Student Representatives
 =======================
 
-In our School, the Union has two Department Reps (one academic and one well-being), and two Year Reps (one academic and one well-being) for each year group. More information on the well-being role can be found in :ref:`appendix-wellbeing-rep`.
+In our School, the Union has two Department Reps (one academic and one well-being), and two Year Reps (one academic and one well-being) for each year group.
+
+About the Networks
+==================
 
 You can find the description provided by the IC Union of these roles here:
 
 .. raw:: html
 
   <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperialcollegeunion.org/your-union/your-representatives/a-to-z/design-engineering-ug" role="button" style="margin-bottom:20px;white-space:normal;">About Reps</a>
+  <a class="btn btn-info btn-custom" href="https://www.imperialcollegeunion.org/your-union/your-representatives/representation-networks" role="button" style="margin-bottom:20px;white-space:normal;">About the Rep Networks</a>
   </div>
+
+.. image:: rep-networks.png
+  :align: center
 
 Your Reps
 =========
@@ -35,6 +41,15 @@ Your Reps
       margin-left: 5px;
       margin-right: 5px;
     }
+
+    .academic {
+      background-color: #BBEDFF;
+    }
+
+    .wellbeing {
+      background-color: #FFBBE3;
+    }
+
     .profile_name {
       font-weight: bold;
       width: 100%;
@@ -81,61 +96,66 @@ Your Reps
   </style>
 
   <div>
-    <div class="profile"><div class="grid-container">
+    <h3>Department</h3>
+    <div class="profile academic"><div class="grid-container">
       <img class="profile_picture" src="../_static/rep_profiles/Greenberg-Ben.jpg">
       <div class="profile_name">Ben Greenberg</div>
-      <div class="profile_title">Department Representative (Academic)</div>
+      <div class="profile_title">Department Rep (Academic)</div>
       <div class="profile_contact"><a href="mailto:bsg115@ic.ac.uk">bsg115@ic.ac.uk</a></div>
     </div></div>
-    <div class="profile"><div class="grid-container">
+    <div class="profile wellbeing"><div class="grid-container">
       <img class="profile_picture" src="../_static/rep_profiles/Peatman-Ellie.jpg">
       <div class="profile_name">Ellie Peatman</div>
-      <div class="profile_title">Department Representative (Wellbeing)</div>
+      <div class="profile_title">Department Rep (Wellbeing)</div>
       <div class="profile_contact"><a href="mailto:elspeth.peatman16@imperial.ac.uk">elspeth.peatman16@imperial.ac.uk</a></div>
     </div></div>
-    <div class="profile"><div class="grid-container">
+    <h3>Year 4</h3>
+    <div class="profile academic"><div class="grid-container">
       <img class="profile_picture" src="../_static/rep_profiles/Kegler-Ian.jpg">
       <div class="profile_name">Ian Keglar</div>
       <div class="profile_title">Year 4 Rep (Academic)</div>
       <div class="profile_contact"><a href="mailto:ian.kegler15@imperial.ac.uk">ian.kegler15@imperial.ac.uk</a></div>
     </div></div>
-    <div class="profile"><div class="grid-container">
+    <div class="profile wellbeing"><div class="grid-container">
       <img class="profile_picture" src="../_static/rep_profiles/Pattison-Leah.jpg">
       <div class="profile_name">Leah Pattison</div>
       <div class="profile_title">Year 4 Rep (Academic)</div>
       <div class="profile_contact"><a href="mailto:leah.pattison15@imperial.ac.uk">leah.pattison15@imperial.ac.uk</a></div>
     </div></div>
-    <div class="profile"><div class="grid-container">
-      <img class="profile_picture" src="../_static/rep_profiles/Cheung-Gordan.jpg">
+    <h3>Year 3</h3>
+    <div class="profile academic"><div class="grid-container">
+      <img class="profile_picture" src="../_static/rep_profiles/Cheung-Gordon.jpg">
       <div class="profile_name">Gordon Cheung</div>
       <div class="profile_title">Year 3 Rep (Academic)</div>
       <div class="profile_contact"><a href="mailto:yat.cheung16@imperial.ac.uk">yat.cheung16@imperial.ac.uk</a></div>
     </div></div>
-    <div class="profile"><div class="grid-container">
+    <div class="profile wellbeing"><div class="grid-container">
       <img class="profile_picture" src="../_static/rep_profiles/Duru-Justice.jpg">
       <div class="profile_name">Justice Duru</div>
       <div class="profile_title">Year 3 Rep (Wellbeing)</div>
       <div class="profile_contact"><a href="mailto:justice.duruanyanwu16@imperial.ac.uk">justice.duruanyanwu16@imperial.ac.uk</a></div>
     </div></div>
-    <div class="profile"><div class="grid-container">
+    <h3>Year 2</h3>
+    <div class="profile academic"><div class="grid-container">
       <img class="profile_picture" src="../_static/rep_profiles/Alves_De_Freitas-Higor.jpg">
       <div class="profile_name">Higor Alves De Freitas</div>
       <div class="profile_title">Year 2 Rep (Academic)</div>
       <div class="profile_contact"><a href="mailto:higor.alves-de-freitas17@imperial.ac.uk">higor.alves-de-freitas17@imperial.ac.uk</a></div>
     </div></div>
-    <div class="profile"><div class="grid-container">
+    <div class="profile wellbeing"><div class="grid-container">
       <img class="profile_picture" src="../_static/rep_profiles/Mather-Amy.jpg">
       <div class="profile_name">Amy Mather</div>
       <div class="profile_title">Year 2 Rep (Wellbeing)</div>
       <div class="profile_contact"><a href="mailto:amy.mather17@imperial.ac.uk">amy.mather17@imperial.ac.uk</a></div>
     </div></div>
-    <div class="profile"><div class="grid-container">
+    <h3>Year 1</h3>
+    <div class="profile academic"><div class="grid-container">
       <img class="profile_picture" src="../_static/rep_profiles/Regojo_Montero-Claudia.jpg">
       <div class="profile_name">Claudia Regojo Montero</div>
       <div class="profile_title">Year 1 Rep (Academic)</div>
       <div class="profile_contact"><a href="mailto:claudia.regojo18@imperial.ac.uk">claudia.regojo18@imperial.ac.uk</a></div>
     </div></div>
-    <div class="profile"><div class="grid-container">
+    <div class="profile wellbeing"><div class="grid-container">
       <img class="profile_picture" src="../_static/rep_profiles/Arekat-Hind.jpg">
       <div class="profile_name">Hind Arekat</div>
       <div class="profile_title">Year 1 Rep (Wellbeing)</div>
