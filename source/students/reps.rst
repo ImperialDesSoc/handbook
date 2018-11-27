@@ -43,11 +43,11 @@ Your Reps
     }
 
     .academic {
-      background-color: #BBEDFF;
+      background-color: #F6B5D3;
     }
 
     .wellbeing {
-      background-color: #FFBBE3;
+      background-color: #96D6F7;
     }
 
     .profile_name {
