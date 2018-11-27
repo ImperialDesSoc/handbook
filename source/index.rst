@@ -38,6 +38,7 @@ Contents
   :caption: Student Representation
 
   students/reps
+  students/rep-log
   students/dessoc
   students/imperial-college-union
 
