@@ -803,10 +803,10 @@ There will usually be someone in Third Floor, Dyson Building on Monday – Frida
     <div class="profile">
       <div class="grid-container">
         <img class="profile_picture" style="width:100px;height:150px!important;border-radius:3px;" src="_static/profiles/skyes_sophie.png">
-        <div class="profile_name">Sophie Skyes</div>
+        <div class="profile_name">Sophie Sykes</div>
         <div class="profile_title">Office Assistant</div>
         <div class="profile_title">Third Floor, Dyson Building</div>
-        <div class="profile_contact"><a href="mailto:s.skyes@imperial.ac.uk">s.skyes@imperial.ac.uk</a></div>
+        <div class="profile_contact"><a href="mailto:s.sykes@imperial.ac.uk">s.sykes@imperial.ac.uk</a></div>
       </div>
     </div>
   </div>
