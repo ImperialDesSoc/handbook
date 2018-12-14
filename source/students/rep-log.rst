@@ -45,7 +45,7 @@ It should be noted that the Department endeavours to ensure there are Panopto re
 I need some lockable storage. Do we have any?
 *********************************************
 
-An email will be sent out at the beginning of each term to remind students to request a locker. Sometimes there are more requests than available lockers were made, so the Dep Reps do our best to ensure that they were assigned to students with valid reasons for needing lockable storage.
+An email will be sent out at the beginning of each term to remind students to request a locker. Sometimes there are more requests than available lockers were made, so the Dep Reps do their best to ensure that they were assigned to students with valid reasons for needing lockable storage.
 
 Remember that project work, gym/sport kit, etc. can all be stored in the cardboard boxes in the Level 2 Studio.
 
