@@ -12,12 +12,44 @@ FAQ
 .. contents::
   :local:
 
+How many mock/sample papers should we get for exams?
+****************************************************
+
+College guidance is currently set at two papers expected per examination. This does not specify solution sheets or mark schemes. If you have not been given two sample papers, please ask your year rep to email the module leader and :ref:`dugs`.
+
+What are standard grade distributions for modules?
+**************************************************
+
+As you know, grade distributions are not provided for department modules, as there is not a strong call for them and they add extra administrative burden to the staff.
+
+Going forward, the reps have agreed with staff to show an example of grade distributions for modules to first years, to help them adjust expectations in grades when the first join the school.
+
+If there is strong desire for this information to be published, please speak to your year reps.
+
+How room bookings work in the Dyson Building
+********************************************
+
+AJM explained the new Planon room booking system, which is administered by staff. Students requiring meeting rooms should contact Sophie Sykes in the :ref:`teaching-office`.
+
+The reason students cannot book meeting rooms directly is simply a space issue. In the absence of individual academic staff offices, personal tutorials, academic meetings and teaching drop-in sessions needs to take priority. Hopefully the addition of the café in the new year will enable students to meet in a slightly more private setting.
+
+Other departments have automatic Panopto. Why don't we?
+*******************************************************
+
+It's true that College has moved all departments over to automatic Panopto recordings. This a system that uses the Calendar timetabling of certain rooms to automatically start a recording and scheduled times.
+
+The School’s opinion is that the spaces in the Dyson Building are not suitable for automatic recording, particularly as these are also common areas that students frequently use at all other times. This would mean that if a scheduled session finished early, or happened not to occur that day, the recording would still be taken. This is not desirable for obvious privacy reasons.
+
+It should be noted that the Department endeavours to ensure there are Panopto recordings being taken by lecturers when they do run their scheduled teaching sessions.
+
 I need some lockable storage. Do we have any?
 *********************************************
 
-An email was sent out to all undergraduates to canvas any requests for lockable storage. Unfortunately, more requests than available lockers were made, so we did our best to ensure that they were assigned to students with valid reasons for needing lockable storage.
+An email will be sent out at the beginning of each term to remind students to request a locker. Sometimes there are more requests than available lockers were made, so the Dep Reps do our best to ensure that they were assigned to students with valid reasons for needing lockable storage.
 
 Remember that project work, gym/sport kit, etc. can all be stored in the cardboard boxes in the Level 2 Studio.
+
+There is a wider investigation going on into what storage space is available to students and where different things should be stored.
 
 Who are my reps?
 ****************
