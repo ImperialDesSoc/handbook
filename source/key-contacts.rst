@@ -93,6 +93,8 @@ Head of School
   </div>
   <br/>
 
+.. _`dugs`:
+
 Director of Undergraduate Studies (DUGS)
 ----------------------------------------
 
@@ -701,6 +703,8 @@ Individual Meetings
 If you are in need of an individual meeting with your Personal Tutor, you can contact hem via email and arrange for a day, time and location. Please do not hesitate to do this, as the information that your Personal Tutor can supply about your general progress throughout your time here, and any special difficulties you might have experienced can be of invaluable advantage to you when decisions affecting your future have to be made. They may also write you reference letters.
 
 If, for whatever reason, you are unable to contact or establish a good rapport with your Personal Tutor, please talk to `The Senior Tutor`_ who may be able to help resolve this.
+
+.. _`teaching-office`:
 
 Teaching Office
 ===============
