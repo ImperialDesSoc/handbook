@@ -1,4 +1,6 @@
-# docs: Design Engineering Student Handbook
+# Design Engineering Student Handbook
+
+## Local installation
 
 To build the documentation, execute:
 
@@ -6,6 +8,8 @@ To build the documentation, execute:
     make html
 
 ## License
+
+TBD
 
 <!-- The source code and generated documents are licensed under the [Apache 2.0 license][apache-2.0].
 
