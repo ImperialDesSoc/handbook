@@ -118,13 +118,7 @@ Chemicals cannot be stored in the ACE lab without the prior agreement of the Sch
 Project Storage
 ---------------
 
-In the Breakout Space on 2rd Floor, Dyson Building there are project drawers which will operate on a gym style, first-come-first served basis.
-
-These are managed by the School’s :ref:`student-reps`. If you have any issues with these, you should contact the Reps directly.
-
-Otherwise you will be responsible for storing the necessary books and equipment for your courses and ensuring that you bring the correct items with you to classes and sessions.
-
-.. image:: _static/storage.png
+For more information on student useable storage, please see :doc:`storage-space`.
 
 School Workshop
 ===============

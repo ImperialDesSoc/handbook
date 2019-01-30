@@ -32,6 +32,7 @@ Contents
    years
    general-information
    appendix
+   storage-space
 
 .. toctree::
   :maxdepth: 2
