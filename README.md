@@ -13,7 +13,7 @@
 </p>
 
 <h4 align="center">
-<a href='http://handbook.designengineering.london/en/latest/?badge=latest'>
+<a href='http://handbook.imperialdyson.uk/en/latest/?badge=latest'>
     <img src='https://readthedocs.org/projects/design-engineering-handbook/badge/?version=latest' alt='Documentation Status' />
 </a>
 <br>
@@ -23,7 +23,7 @@
 </h4>
 
 <h3 align="center">
-  <strong><a href="https://handbook.designengineering.london">View the Handbook</a></strong>
+  <strong><a href="https://handbook.imperialdyson.uk">View the Handbook</a></strong>
 </h3>
 
 This repository contains the source material for the digital student handbook of the Design Engineering MEng, run by the Dyson School of Design Engineering, Imperial College London.
@@ -31,7 +31,7 @@ This repository contains the source material for the digital student handbook of
 ## Quick links
 
 - View the project settings on ReadTheDocs: https://readthedocs.org/projects/design-engineering-handbook
-- View the live handbook: https://handbook.designengineering.london
+- View the live handbook: https://handbook.imperialdyson.uk
 - View the guidance wiki: https://github.com/ImperialDyson/handbook/wiki
 
 
