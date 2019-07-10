@@ -1,0 +1,12 @@
+# These owners will be the default owners for everything in the repo. Unless a
+# later match takes precedence, these owners will be requested for review when
+# someone opens a pull request.
+
+*       @nebbles
+
+# Order is important; the last matching pattern takes the most precedence. When
+# someone opens a pull request that only modifies a file caught in the following
+# rule, only the corresponding owners will be requested to view, not the global
+# owner(s).
+
+# /source/students/    @nebbles 
