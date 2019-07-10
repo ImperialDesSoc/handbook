@@ -168,3 +168,4 @@ def setup(app):
     # (create a setup() function if you don't already have one;
     # or add to the existing setup() ...)
     app.add_javascript("style_override.js")
+    app.add_javascript('js/redirect.js')
