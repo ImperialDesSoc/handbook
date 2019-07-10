@@ -55,4 +55,4 @@ The first version of the digital student handbook was created in September 2018 
 
 ### Maintainers
 
-2018 - 2019 Ben Greenberg (@nebbles)
+2018 - 2019 Ben Greenberg ([@nebbles](https://github.com/nebbles))
