@@ -16,10 +16,11 @@
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-#
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('_ext'))
 
 # -- General configuration ------------------------------------------------
 
@@ -30,7 +31,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.mathjax', 'sphinx.ext.todo']
+extensions = ['sphinx.ext.mathjax', 'sphinx.ext.todo', 'button_directive']
 
 # TODO: set mathjax_path for offline support
 
@@ -169,3 +170,4 @@ def setup(app):
     # or add to the existing setup() ...)
     app.add_javascript("style_override.js")
     app.add_javascript('js/redirect.js')
+    app.add_css_file('style_override.css')
