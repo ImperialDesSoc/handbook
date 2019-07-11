@@ -56,8 +56,8 @@ def html_visit_button_node(self, node):
 
 
 def latex_visit_button_node(self, node):
-    # html = BUTTON_TEMPLATE.render(text=node['text'], link=node['link'])
-    # self.body.append(html)
+    latex = "\\href{{{link}}}{{{text}}}".format(text=node['text'], link=node['link'])
+    self.body.append(latex)
     raise nodes.SkipNode
 
 # More visit function can be defined for latex, text, etc. outputs too
