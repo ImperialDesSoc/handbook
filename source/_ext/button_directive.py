@@ -23,7 +23,7 @@ BUTTON_TEMPLATE = jinja2.Template(u"""
 
 BUTTON_TEMPLATE_LATEX = """
 \\newline
-\\href{{{link}}}{{{text}}}
+Link: \\href{{{link}}}{{{text}}}
 \\newline
 """
 
