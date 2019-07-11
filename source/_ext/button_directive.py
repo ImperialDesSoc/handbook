@@ -21,6 +21,11 @@ BUTTON_TEMPLATE = jinja2.Template(u"""
 </div>
 """)
 
+BUTTON_TEMPLATE_LATEX = """
+\\newline
+\\href{{{link}}}{{{text}}}
+\\newline
+"""
 
 class button_node(nodes.General, nodes.Element):
     pass
@@ -56,7 +61,7 @@ def html_visit_button_node(self, node):
 
 
 def latex_visit_button_node(self, node):
-    latex = "\\href{{{link}}}{{{text}}}".format(text=node['text'], link=node['link'])
+    latex = BUTTON_TEMPLATE_LATEX.format(text=node['text'], link=node['link'])
     self.body.append(latex)
     raise nodes.SkipNode
 
