@@ -7,11 +7,9 @@ Appendices
 Campus Map
 ==========
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/media/imperial-college/visit/public/SouthKensingtonCampus.pdf" role="button" style="margin-bottom:20px;white-space:normal;">Map of South Kensington Campus</a>
-  </div>
+.. button::
+   :text: Map of South Kensington Campus
+   :link: https://www.imperial.ac.uk/media/imperial-college/visit/public/SouthKensingtonCampus.pdf
 
 .. _`appendix-module-gantt`:
 

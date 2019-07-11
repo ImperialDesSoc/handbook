@@ -99,10 +99,9 @@ We have rigorous regulations in place to ensure assessments are conducted with f
 
 In the event that you believe that you have grounds for complaint about academic or administrative services, or wish to appeal the outcome of an assessment or final degree, we have laid out clear and consistent procedures through which complaints and appeals can be investigated and considered.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/about/governance/academic-governance/academic-policy/complaints-appeals-and-discipline/" role="button" style="margin-bottom:20px;white-space:normal;">Appeal and Complaints Procedures</a></div>
+.. button::
+   :text: Appeal and Complaints Procedures
+   :link: http://www.imperial.ac.uk/about/governance/academic-governance/academic-policy/complaints-appeals-and-discipline/
 
 Supplementary Qualifying Tests (SQTs/resits)
 ============================================
@@ -177,11 +176,9 @@ Coursework includes project work, prototypes, presentations, lab reports, projec
    The College treats cheating on coursework exercises exactly the same way as cheating in examinations. If any student is suspected of cheating, of attempting to cheat, or of assisting someone else to cheat, the facts will be reported to the College. If found to have done so, s/he may in consequence be disqualified from all future examinations of the Imperial College.
 
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/regulations/2014-15/student-regs/Regulations-for-Students.pdf" role="button" style="margin-bottom:20px;white-space:normal;">College Disciplinary Procedures</a>
-  </div>
+.. button::
+   :text: College Disciplinary Procedures
+   :link: http://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/regulations/2014-15/student-regs/Regulations-for-Students.pdf
 
 Late Submission of Coursework
 -----------------------------
@@ -248,10 +245,9 @@ The Imperial Success Guide provides excellent advice on taking university exams.
 
 You should refer to this information regularly.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/students/success-guide/" role="button" style="margin-bottom:20px;white-space:normal;">The Imperial Success Guide</a></div>
+.. button::
+   :text: The Imperial Success Guide
+   :link: https://www.imperial.ac.uk/students/success-guide/
 
 Exam Stress
 -----------
@@ -260,10 +256,9 @@ Most people find exams at least a bit stressful. We suggest that you refer to th
 
 If you find that you are becoming overwhelmed by stress, there is help available for you.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperialcollegehealthcentre.co.uk/exams-and-stress/" role="button" style="margin-bottom:20px;white-space:normal;">Health Centre Advice on Exam Stress</a></div>
+.. button::
+   :text: Health Centre Advice on Exam Stress
+   :link: https://www.imperialcollegehealthcentre.co.uk/exams-and-stress/
 
 Sitting an Exam
 ---------------
@@ -387,7 +382,6 @@ If the panel decide that none of the submitted work demonstrates significant out
 
 Winning projects are listed on the School’s award webpage:
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/design-engineering/study/meng/desire/" role="button" style="margin-bottom:20px;white-space:normal;">DESIRE Awards</a></div>
+.. button::
+   :text: DESIRE Awards
+   :link: http://www.imperial.ac.uk/design-engineering/study/meng/desire/

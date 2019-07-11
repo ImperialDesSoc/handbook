@@ -65,10 +65,9 @@ The dates for SOLE are:
 
 You will be notified via your College email of the exact survey dates.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/students/academic-support/student-surveys/ug-student-surveys/ug-sole/" role="button" style="margin-bottom:20px;white-space:normal;">SOLE Survey and Results</a></div>
+.. button::
+   :text: SOLE Survey and Results
+   :link: https://www.imperial.ac.uk/students/academic-support/student-surveys/ug-student-surveys/ug-sole/
 
 Student Experience Survey
 =========================

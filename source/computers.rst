@@ -40,10 +40,9 @@ Imperial College Laptop Surgery
 
 If you have a non-School laptop and have software issues, you can take it to the College’s Laptop Surgery.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/admin-services/ict/training-and-resources/laptop-surgery/" role="button" style="margin-bottom:20px;white-space:normal;">College Laptop Surgery</a></div>
+.. button::
+   :text: College Laptop Surgery
+   :link: https://www.imperial.ac.uk/admin-services/ict/training-and-resources/laptop-surgery/
 
 Students who joined 2015-17: what to do if your School Laptop breaks
 --------------------------------------------------------------------
@@ -85,10 +84,9 @@ ICT Access
 - In-person: ICT Service Desk, 1st Floor, Central Library, South Kensington Campus
 - Phone: 020 7594 9000 (extension 49000)
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://imperial.service-now.com/ict/" role="button" style="margin-bottom:20px;white-space:normal;">24/7 Support: ASK ICT</a></div>
+.. button::
+   :text: 24/7 Support: ASK ICT
+   :link: https://imperial.service-now.com/ict/
 
 .. note::
   All staff and students are bound by the `conditions of use for IT facilities <https://www.imperial.ac.uk/admin-services/ict/self-service/computers-printing/campus-computers/conditions-of-use-for-it-facilities/>`_.
@@ -102,10 +100,9 @@ The School will provide access to any software that you may need for the course.
 
 Please check out this web-page to see what software is available for you while being a student at Imperial:
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/admin-services/ict/store/software/software-for-students/" role="button" style="margin-bottom:20px;white-space:normal;">Software for Students</a></div>
+.. button::
+   :text: Software for Students
+   :link: https://www.imperial.ac.uk/admin-services/ict/store/software/software-for-students/
 
 Some packages are only available on the School’s loan laptops. To use these, you must borrow one of the loan machines and use it within the School’s building.
 
@@ -119,10 +116,9 @@ Printing
 
 It is possible to print to the communal college printers from your School issued private laptop. You will need your College ID card to do this.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/computers-printing/printing/" role="button" style="margin-bottom:20px;white-space:normal;">How to print</a></div>
+.. button::
+   :text: How to print
+   :link: http://www.imperial.ac.uk/admin-services/ict/self-service/computers-printing/printing/
 
 Printing to communal College printers and using the photocopiers costs money. You can purchase printer credits to charge your card at the Central Library or online.
 
@@ -140,10 +136,9 @@ Service Point
 
 Some projects may require that you design a poster to present your work. Posters can be printed at Service Point, the College’s on-site contractor for bulk and professional printing.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/admin-services/finance/purchasing/recommended-suppliers/by-product-type/print/" role="button" style="margin-bottom:20px;white-space:normal;">Service Point</a></div>
+.. button::
+   :text: Service Point
+   :link: https://www.imperial.ac.uk/admin-services/finance/purchasing/recommended-suppliers/by-product-type/print/
 
 .. important::
   Ensure you allow sufficient time for the turnaround of printing tasks.
@@ -155,10 +150,9 @@ Imperial College London provides and supports excellent access to the Internet, 
 
 An account for access to IT facilities was created for you on registration, and you have been provided with a username and password for login and Internet access via Outlook, Internet Explorer and Firefox. If you forget your password and need to obtain a new one, you will need to produce a valid college ID card.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/wifi-and-networks/" role="button" style="margin-bottom:20px;white-space:normal;">How to access the College network</a></div>
+.. button::
+   :text: How to access the College network
+   :link: http://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/wifi-and-networks/
 
 .. important::
   In your contract as a student you have agreed to abide by the Conditions of Use of IT Services. These conditions concern anti-social behaviour by which other users can be affected and areas of misuse which come under UK Law.
@@ -174,9 +168,8 @@ This is available or iOS and Android and there is a web version for other device
 
 We recommend that you download this app.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/students/online-services/mobile/" role="button" style="margin-bottom:20px;white-space:normal;">Download Imperial Mobile App</a></div>
+.. button::
+   :text: Download Imperial Mobile App
+   :link: http://www.imperial.ac.uk/students/online-services/mobile/
 
 .. image:: _static/app.png
