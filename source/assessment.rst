@@ -74,10 +74,9 @@ You will hear the Panel’s decision within five working days of the panel meeti
 
 Mitigating Circumstances forms are in the ‘UG Resources’ section of Blackboard
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://bb.imperial.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_676549_1&course_id=_7973_1&mode=reset" role="button" style="margin-bottom:20px;white-space:normal;">Mitigating Circumstances Forms on BlackBoard</a></div>
+.. button::
+   :text: Mitigating Circumstances Forms on BlackBoard
+   :link: https://bb.imperial.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_676549_1&course_id=_7973_1&mode=reset
 
 Getting Your Results
 ====================
@@ -155,12 +154,13 @@ TurnItIn
 
 The School uses the plagiarism detection site TurnItIn both to filter electronic submissions of coursework via Blackboard and to check electronic duplicates of printed submissions.
 
-.. raw:: html
+.. button::
+   :text: Student Guide to TurnItIn
+   :link: http://www.imperial.ac.uk/admin-services/ict/self-service/teaching-learning/elearning-services/turnitin/
 
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/teaching-learning/elearning-services/turnitin/" role="button" style="margin-bottom:20px;white-space:normal;">Student Guide to TurnItIn</a>
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/library/learning-support/plagiarism-awareness/undergraduates/" role="button" style="margin-bottom:20px;white-space:normal;">College Plagiarism Information</a>
-  </div>
+.. button::
+   :text: College Plagiarism Information
+   :link: http://www.imperial.ac.uk/admin-services/library/learning-support/plagiarism-awareness/undergraduates/
 
 Coursework
 ==========
@@ -281,12 +281,13 @@ College examination conditions and rules — e.g. the absolute rule against spea
 
 .. important:: No smart watches or (other watches with functions beyond telling the time) will be allowed in the examination room. There will be at least one clock in each examination room.
 
-.. raw:: html
+.. button::
+   :text: Instructions to Candidates for Examinations
+   :link: http://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/exam-arrangements-and-re-sits/Instructions-to-candidates-for-examinations.pdf
 
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/exam-arrangements-and-re-sits/Instructions-to-candidates-for-examinations.pdf" role="button" style="margin-bottom:20px;white-space:normal;">Instructions to Candidates for Examinations</a>
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/students/success-guide/ug/assessments-and-feedback/examinations/sitting-examinations/" role="button" style="margin-bottom:20px;white-space:normal;">Handy Exam Guidance</a></div>
-  </div>
+.. button::
+   :text: Handy Exam Guidance
+   :link: http://www.imperial.ac.uk/students/success-guide/ug/assessments-and-feedback/examinations/sitting-examinations/
 
 .. important:: The instructions on the front page of the answer book fill in a list of questions attempted, start each question on a new page etc. — are there for your protection. Read and obey them!
 
@@ -297,11 +298,9 @@ Additional assessment and examination arrangements are provided by the College f
 
 You should contact the School’s :ref:`disability-officers` if you believe that you are eligible for such arrangements.
 
-.. raw:: html
-
-  <div style="text-align:center;">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/exam-arrangements-and-re-sits/Exam-arrangements-in-respect-of-disability.pdf" role="button" style="margin-bottom:20px;white-space:normal;">Procedures for consideration of exam arrangements in respect of Disability</a>
-  </div>
+.. button::
+   :text: Procedures for consideration of exam arrangements in respect of Disability
+   :link: https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/exam-arrangements-and-re-sits/Exam-arrangements-in-respect-of-disability.pdf
 
 Examination Feedback
 --------------------

@@ -9,10 +9,9 @@ Students who join Imperial are all academically able, but they come from a wide 
 
 First and foremost, please take time to explore the new Imperial Success Guide site. This was put together from a vast amount of collective experience — above all that of many students who were asked what was needed to empower and support them as they started university. The guide brings together information on effective study, assessments and feedback, wellbeing, workshops and support to ensure that you know where to look for advice and guidance on study skills.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/students/success-guide/" role="button" style="margin-bottom:20px;">The Imperial Success Guide</a></div>
+.. button::
+   :text: The Imperial Success Guide
+   :link: https://www.imperial.ac.uk/students/success-guide/
 
 .. image:: _static/success-guide.jpg
 
@@ -21,10 +20,9 @@ English Classes
 
 The undergraduate course involves a substantial amount of reading and writing, as well as oral presentations. Fluency in English is vital if you are to be successful in the course. The Centre for Academic English runs a series of English classes in the evenings for students who need tuition and practice.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/academic-english" role="button" style="margin-bottom:20px;" style="margin-bottom:20px;">Centre for Academic English</a></div>
+.. button::
+   :text: Centre for Academic English
+   :link: http://www.imperial.ac.uk/academic-english
 
 .. important:: Failure to attend these classes could result in you not understanding the lectures and failing the year’s assessments (i.e. projects, end-of-Term exams, essays and reports, etc.)
 
@@ -53,10 +51,9 @@ You can choose from more than 20 different course options in the following four 
 
 .. important:: First years must register their course preferences on the Imperial Horizons website during Welcome Week, before the deadline of Monday 10th October 2016. Imperial Horizons is a set of extracurricular and non-compulsory activities that are not credited towards your degree.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/horizons" role="button" style="margin-bottom:20px;">Imperial Horizons</a></div>
+.. button::
+   :text: Imperial Horizons
+   :link: http://www.imperial.ac.uk/horizons
 
 Disability Advisory Service
 ===========================
@@ -96,10 +93,9 @@ You can book an appointment by dropping in to the office, phoning or sending an 
 | disabilities@imperial.ac.uk
 |
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/disability-advisory-service/" role="button" style="margin-bottom:20px;">Disability Advisory Service</a></div>
+.. button::
+   :text: Disability Advisory Service
+   :link: http://www.imperial.ac.uk/disability-advisory-service/
 
 Departmental Disability Officers (DDOs)
 =======================================
@@ -112,29 +108,26 @@ The School has two Disability Liaison Officers. Depending on the year your joine
 
 More information on Departmental Disability Officers is available at:
 
-.. raw:: html
+.. button::
+   :text: College DDO Information
+   :link: #
 
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="#" role="button" style="margin-bottom:20px;">College DDO Information</a></div>
-
-.. todo:: The above link currently does not work but will be updated soon.
+.. todo:: The above link currently does not work and needs to be updated.
 
 More information on procedures for the consideration of additional exam arrangements in respect of disability is available at:
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/student-records-and-data/for-current-students/undergraduate-and-taught-postgraduate/exams-assessments-and-regulations/additional-exam-arrangements-in-respect-of-disability/" role="button" style="margin-bottom:20px;">Exam arrangements and disability</a></div>
+.. button::
+   :text: Exam arrangements and disability
+   :link: http://www.imperial.ac.uk/student-records-and-data/for-current-students/undergraduate-and-taught-postgraduate/exams-assessments-and-regulations/additional-exam-arrangements-in-respect-of-disability/
 
 Evening Classes
 ===============
 
 The Centre for Co-curricular Studies offers evening classes in a broad selection of subjects outside science and technology, such as languages and humanities. Fees are normally due, but these will be considerably less than the equivalent classes from a private company.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/evening-classes/" role="button" style="margin-bottom:20px;">Information on evening classes</a></div>
+.. button::
+   :text: Information on evening classes
+   :link: https://www.imperial.ac.uk/evening-classes/
 
 Central Library
 ===============
@@ -153,9 +146,10 @@ The School librarian maintains a web page with a blog. They also have office hou
 | n.urquhart@imperial.ac.uk
 |
 
-.. raw:: html
+.. button::
+   :text: School Librarian
+   :link: http://www.imperial.ac.uk/admin-services/library/subject-support/design-engineering/
 
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/library/subject-support/design-engineering/" role="button" style="margin-bottom:20px;">School Librarian</a>
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/library/" role="button" style="margin-bottom:20px;">College Library</a>
-  </div>
+.. button::
+   :text: College Library
+   :link: http://www.imperial.ac.uk/admin-services/library/

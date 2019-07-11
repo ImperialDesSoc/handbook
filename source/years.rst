@@ -38,11 +38,9 @@ Term Dates
     - 4 January - 20 March
     - 25 April - 26 June
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/admin-services/registry/term-dates/" role="button" style="margin-bottom:20px;white-space:normal;">Future Term Dates</a>
-  </div>
+.. button::
+   :text: Future Term Dates
+   :link: https://www.imperial.ac.uk/admin-services/registry/term-dates/
 
 .. _`college-closure`:
 
@@ -66,11 +64,9 @@ Closure Dates
   * - **Summer bank holiday**
     - 26 August 2019
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/admin-services/registry/term-dates/" role="button" style="margin-bottom:20px;white-space:normal;">Future College Closure Dates</a>
-  </div>
+.. button::
+   :text: Future College Closure Dates
+   :link: https://www.imperial.ac.uk/admin-services/registry/term-dates/
 
 .. important:: For all coursework submission deadlines, key dates and late-breaking news associated with specific modules, please check the calendar on the corresponding BlackBoard page.
 
@@ -142,11 +138,9 @@ It is important for us to understand your particular case and all aspects of why
 
 Temporarily ceasing to be a student can create significant problems: details of these are given on the Registry website.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/student-records-and-data/for-current-students/undergraduate-and-taught-postgraduate/changes-to-registration-status/" role="button" style="margin-bottom:20px;white-space:normal;">Registry Information on Interruption of Studies</a>
-  </div>
+.. button::
+   :text: Registry Information on Interruption of Studies
+   :link: http://www.imperial.ac.uk/student-records-and-data/for-current-students/undergraduate-and-taught-postgraduate/changes-to-registration-status/
 
 Degree Overview
 ===============
@@ -530,8 +524,6 @@ Invitations are issued during August. The ceremony takes place in the Royal Albe
 
 Attendance is not required — your degree will be awarded anyway — but few graduands manage to resist the allure of the occasion and the pressure of family and peers.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/graduation/" role="button" style="margin-bottom:20px;white-space:normal;">Graduation website</a>
-  </div>
+.. button::
+   :text: Graduation website
+   :link: http://www.imperial.ac.uk/graduation/

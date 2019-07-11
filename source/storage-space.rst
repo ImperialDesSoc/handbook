@@ -40,19 +40,15 @@ The following allocation rules apply. These will be reviewed termly and adapted 
 #. Priority will be given to students who group up (in threes is advised). This is due to the limited amount of storage.
 #. All boxes **must be emptied** a the end of term unless the allocation continues into the next term.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://goo.gl/forms/80F5e6Fxc0ZOiNYb2" role="button" style="margin-bottom:20px;white-space:normal;">Request a storage box</a>
-  </div>
+.. button::
+   :text: Request a storage box
+   :link: https://goo.gl/forms/80F5e6Fxc0ZOiNYb2
 
 Designation of fully securable lockers
 ======================================
 
 .. todo:: This will be added at a later stage. For queries, please contact the Department Representative (:ref:`student-reps`)
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://goo.gl/forms/XgVm2LSxm0CMWCxs1" role="button" style="margin-bottom:20px;white-space:normal;">Request a locker</a>
-  </div>
+.. button::
+   :text: Request a locker
+   :link: https://goo.gl/forms/XgVm2LSxm0CMWCxs1

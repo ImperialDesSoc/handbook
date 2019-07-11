@@ -16,12 +16,13 @@ To become a Chartered Engineer, you will need:
 
 A professional institution like the Institution of Mechanical Engineers (IMechE), the Institution of Engineering Designers (IED) or the Institution of Engineering and Technology (IET), acts as an agent for the Engineering Council: it both accredits degree programmes and, through a network of suitably qualified mentors, monitors the subsequent IPD process.
 
-.. raw:: html
+.. button::
+   :text: UK Standard for Professional Engineering Competence (EngTech, IEng, CEng)
+   :link: https://www.engc.org.uk/standards-guidance/standards/
 
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.engc.org.uk/standards-guidance/standards/" role="button" style="margin-bottom:20px;white-space:normal;">UK Standard for Professional Engineering Competence (EngTech, IEng, CEng)</a>
-  <a class="btn btn-info btn-custom" href="https://www.engc.org.uk/informationfor/potential-registrants/" role="button" style="margin-bottom:20px;white-space:normal;">Engineering Council - Registering</a>
-  </div>
+.. button::
+   :text: Engineering Council - Registering
+   :link: https://www.engc.org.uk/informationfor/potential-registrants/
 
 UROP Placements
 ===============
@@ -34,11 +35,9 @@ The UROP scheme at Imperial is coordinated within Registry, and is described in 
 
 Most UROP placements are paid, but not all supervisors have sufficient research funding available. Some research sponsors, even relatively generous ones, put tight restrictions on the way in which funds can be spent. Under these conditions supervisors may be able to offer exciting projects bringing close interaction with potential employers, but unable to support bursaries for them.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/urop" role="button" style="margin-bottom:20px;white-space:normal;">College UROP webpage</a>
-  </div>
+.. button::
+   :text: College UROP webpage
+   :link: http://www.imperial.ac.uk/urop
 
 Careers Service Sessions
 ========================
@@ -59,11 +58,9 @@ There is a central College Careers Centre based on the 5th Floor of the Sherfiel
 
 Full details of their services can be found on their webpage.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/careers/" role="button" style="margin-bottom:20px;white-space:normal;">College Careers webpage</a>
-  </div>
+.. button::
+   :text: College Careers webpage
+   :link: http://www.imperial.ac.uk/careers/
 
 .. todo:: The above link currently isn't working. It should be fixed shortly.
 
@@ -81,11 +78,9 @@ IP will be covered during the MEng curriculum however you should start learning 
 
 The College have also created two YouTube videos which also recommended viewing.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/students/enterprising-students/intellectual-property/" role="button" style="margin-bottom:20px;white-space:normal;">College Intellectual Property information</a>
-  </div>
+.. button::
+   :text: College Intellectual Property information
+   :link: http://www.imperial.ac.uk/students/enterprising-students/intellectual-property/
 
 .. raw:: html
 

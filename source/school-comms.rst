@@ -26,10 +26,9 @@ Within Blackboard you will be able to find a section (module shell) for each of 
 
 You will be able to login into Blackboard using your Imperial College credentials (e.g. jb112).
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://bb.imperial.ac.uk/" role="button" style="margin-bottom:20px;">Blackboard</a></div>
+.. button::
+   :text: Blackboard
+   :link: https://bb.imperial.ac.uk/
 
 Blackboard App
 --------------
@@ -68,10 +67,9 @@ You can use this address freely to communicate with other students, staff and pe
 
 **Re-directing Imperial email to a non-Imperial address:** If necessary, ICT can redirect your mail to a colleague or to a non-Imperial email address (see Computers section for instructions)
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/email/set-up-email-forwarding/" role="button" style="margin-bottom:20px;">Set Up Email Forwarding</a></div>
+.. button::
+   :text: Set Up Email Forwarding
+   :link: http://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/email/set-up-email-forwarding/
 
 .. important:: You must check your e-mail regularly for incoming messages. **Any failure to read important communications will not be accepted as grounds for mitigation.**
 
@@ -91,10 +89,9 @@ Lecture Recordings
 
 Some of the lectures given in theatres are equipped with Panopto. This records the lecturer and presentation. Panopto videos can be viewed directly via the course Blackboard page or the general Panopto page.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://imperial.cloud.panopto.eu" role="button" style="margin-bottom:20px;">Log in to Panopto</a></div>
+.. button::
+   :text: Log in to Panopto
+   :link: http://imperial.cloud.panopto.eu
 
 **Note** that if a session is being recorded and for any reason you do not wish to be part of that recording, please sit in an ‘off-camera’ area (ask the lecturer if you are in doubt) — and reserve any questions to the lecturer until recording has ended.
 
@@ -102,17 +99,15 @@ Some of the lectures given in theatres are equipped with Panopto. This records t
 
 Many students find lecture videos a valuable resource for review and revision. However, a recording cannot possibly replace the shared learning experience of the live lecture, and cannot be relied on for completeness. Occasionally, video capture partially or completely fails.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/media/imperial-college/whats-on/public/Audioandvideolecturerecordingguidelines.pdf" role="button" style="margin-bottom:20px;">Guidelines on audio and video lecture recordings</a></div>
+.. button::
+   :text: Guidelines on audio and video lecture recordings
+   :link: https://www.imperial.ac.uk/media/imperial-college/whats-on/public/Audioandvideolecturerecordingguidelines.pdf
 
 .. important:: It is the School’s intention to make Panopto recordings whenever the facilities allow this. However not all College teaching spaces are fitted with the necessary facilities, so you must not rely on being able to view recordings after the fact.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/secretariat/college-governance/charters/ordinances/students/" role="button" style="margin-bottom:20px;">Code of Student Discipline</a></div>
+.. button::
+   :text: Code of Student Discipline
+   :link: http://www.imperial.ac.uk/admin-services/secretariat/college-governance/charters/ordinances/students/
 
 .. warning:: Lecture recordings are provided only for personal use by registered Imperial College students, and only for educational purposes.
 
@@ -125,10 +120,9 @@ Your timetable will automatically update your Imperial College Outlook calendar.
 
 The easiest and most reliable way to view your calendar is via iCalendar.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/timetabling/view/icalendar/" role="button" style="margin-bottom:20px;">iCalendar</a></div>
+.. button::
+   :text: iCalendar
+   :link: http://www.imperial.ac.uk/timetabling/view/icalendar/
 
 Timetables are subject to last minute changes so you should get in the habit of checking your timetable regularly.
 

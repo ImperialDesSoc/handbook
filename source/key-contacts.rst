@@ -910,10 +910,9 @@ In the event of an issue arising within your department there are a number of av
 
 There are a number of avenues within the College to seek help with academic and pastoral matters:
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/student-space/" role="button" style="margin-bottom:20px;">Student Space</a></div>
+.. button::
+   :text: Student Space
+   :link: http://www.imperial.ac.uk/student-space/
 
 In the event that you would like to seek additional support or guidance, or that you wish to air your issues in confidence, the Faculty Senior Tutor, Dr Lorraine Craig, can be contacted by email (l.craig@imperial.ac.uk) in the first instance.
 

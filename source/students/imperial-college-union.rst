@@ -4,11 +4,9 @@ Imperial College Union
 
 Every student who registers at Imperial College London automatically becomes a member of the Students’ Union. As well as providing an overall framework for student representation, ICU provides a wide range of information, facilities, support and social events.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperialcollegeunion.org" role="button" style="margin-bottom:20px;white-space:normal;">Imperial College Union</a>
-  </div>
+.. button::
+   :text: Imperial College Union
+   :link: https://www.imperialcollegeunion.org
 
 President of Imperial College Union
 ===================================
@@ -50,11 +48,9 @@ Have a wonderful year!
 
 Rob Tomkies, Imperial College Union President, 2018-19
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="mailto:union.president@imperial.ac.uk" role="button" style="margin-bottom:20px;white-space:normal;">Email ICU President</a>
-  </div>
+.. button::
+   :text: Email the ICU President
+   :link: mailto:union.president@imperial.ac.uk
 
 Clubs and Societies
 ===================
@@ -65,11 +61,9 @@ This is a demanding course and we expect you to work hard; but we hope you will 
 
 Since there are over 8000 undergraduate students at Imperial, it is virtually certain that your interests however unusual - will be shared by others. The clubs and societies formed by students and supported by Union funding will be competing to attract new members at the Union Fair on the first Tuesday of autumn term. More than 300 societies are affiliated to the Student Union, and every one of them will want you to join.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperialcollegeunion.org/activities/a-to-z" role="button" style="margin-bottom:20px;white-space:normal;">ICU Clubs & Socs</a>
-  </div>
+.. button::
+   :text: ICU Clubs & Societies
+   :link: https://www.imperialcollegeunion.org/activities/a-to-z
 
 London offers an incredible range of entertainment and culture, both nearby and further afield. The substantial price reductions available to students make this expensive place extremely good value.
 
@@ -84,22 +78,18 @@ Imperial College Advanced Hackspace
 
 Imperial College Advanced Hackspace is a unique community of over 2000 like-minded makers, hackers, inventors and entrepreneurs across the University. Supported by an extensive suite of prototyping equipment and professional experts, ICAH has created a vibrant environment that makes it the best place in the world to turn idea into a reality. ICAH is free to all college members and the community continues to grow with 100 new users joining each month.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/advanced-hackspace/" role="button" style="margin-bottom:20px;white-space:normal;">ICAH</a>
-  </div>
+.. button::
+   :text: ICAH
+   :link: https://www.imperial.ac.uk/advanced-hackspace/
 
 Imperial College Robotics Society
 =================================
 
 Imperial College Robotics Society is a student-led university club aiming to increase robotics interest at Imperial College London and across the UK. They run workshops, competitions and lectures to teach about robotics, electronics and software as well as providing help (financial and technical) to students looking to start a robotics project.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://icrs.io" role="button" style="margin-bottom:20px;white-space:normal;">ICRS</a>
-  </div>
+.. button::
+   :text: ICRS
+   :link: http://icrs.io
 
 .. warning:: Be selective — don’t fall into the trap of trying to do too many things! There are only 168 hours in every week.
 
@@ -130,11 +120,9 @@ The main areas covered are:
 - Counselling Service
 - Wardens
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/student-space/" role="button" style="margin-bottom:20px;white-space:normal;">Student Space</a>
-  </div>
+.. button::
+   :text: Student Space
+   :link: http://www.imperial.ac.uk/student-space/
 
 ICU Advice Centre
 =================
@@ -155,8 +143,6 @@ The Advice centre is your first port of call if you are experiencing difficultie
 
 - **Non-judgemental**: as long as you are a student they will offer the best advice they can give you and they will not judge your position or the next step you decide to take.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperialcollegeunion.org/advice" role="button" style="margin-bottom:20px;white-space:normal;">Advice Centre</a>
-  </div>
+.. button::
+   :text: Advice Centre
+   :link: https://www.imperialcollegeunion.org/advice

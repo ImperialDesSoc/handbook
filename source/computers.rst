@@ -29,11 +29,13 @@ You will be responsible for basic laptop upkeep of your laptop. You must arrange
 
 It is recommended that at least once a year you take your laptop to ICT for a ‘wipe-out’ to restore the laptop’s original performances.
 
-.. raw:: html
+.. button::
+   :text: College IT Security Advice
+   :link: http://www.imperial.ac.uk/admin-services/ict/self-service/be-secure/
 
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/self-service/be-secure/" role="button" style="margin-bottom:20px;white-space:normal;">College IT Security Advice</a>
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/ict/new-to-imperial/students/" role="button" style="margin-bottom:20px;white-space:normal;">ICT Resources for new students</a></div>
+.. button::
+   :text: ICT Resources for new students
+   :link: http://www.imperial.ac.uk/admin-services/ict/new-to-imperial/students/
 
 Imperial College Laptop Surgery
 -------------------------------

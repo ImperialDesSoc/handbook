@@ -11,11 +11,9 @@ The College is diverse and international - it comprises academic staff, students
 
 The full College Principles an be found here:
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/students/our-principles/" role="button" style="margin-bottom:20px;white-space:normal;">College Principles</a>
-  </div>
+.. button::
+   :text: College Principles
+   :link: https://www.imperial.ac.uk/students/our-principles/
 
 Health Services
 ===============
@@ -51,21 +49,23 @@ On the Sunday before Welcome Week, the Health Centre will be open for students i
 
 On weekdays during the Christmas and Easter closures, the Health Centre runs an emergency clinic only, 08.00-10.00. Reception is open 08.00–13.00.
 
-.. raw:: html
+.. button::
+   :text: Find a Doctor
+   :link: http://www.imperial.ac.uk/student-space/here-for-you/find-a-doctor/
 
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/student-space/here-for-you/find-a-doctor/" role="button" style="margin-bottom:20px;white-space:normal;">Find a Doctor</a>
-  <a class="btn btn-info btn-custom" href="https://www.imperialcollegehealthcentre.co.uk" role="button" style="margin-bottom:20px;white-space:normal;">Health Centre website</a>
-  <a class="btn btn-info btn-custom" href="https://www.nhs.uk" role="button" style="margin-bottom:20px;white-space:normal;">National Health Service website</a>
-  </div>
+.. button::
+   :text: Health Centre website
+   :link: https://www.imperialcollegehealthcentre.co.uk
+
+.. button::
+   :text: The National Health Service website
+   :link: https://www.nhs.uk
 
 .. tip:: For students who are not based at the South Kensington Campus, but are still in the Chelsea/Fulham area then you could reregister your NHS clinic to one run by GP at Hand. Powered by Babylon, this GP clinic gives you 24/7 access to a GP via an easy to book video call.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.gpathand.nhs.uk" role="button" style="margin-bottom:20px;white-space:normal;">GP at hand</a>
-  </div>
+.. button::
+   :text: GP at hand
+   :link: https://www.gpathand.nhs.uk
 
 Out of Hours Service
 --------------------
@@ -92,19 +92,17 @@ Nearest Accident and Emergency (A&E) Departments
 Mental health services
 ======================
 
-Mental Health issues are not uncommon and 1 in 4 people in the UK will experience a `mental health problem each year`_.
+Mental Health issues are not uncommon and 1 in 4 people in the UK will experience a `mental health problem each year <#>`_.
 
-.. todo:: The source for the reference above will be added.
+.. todo:: The source for the reference above needs to be added.
 
 If you find that you are struggling to cope with **any** aspect of your life, it is better to seek help earlier rather than later.
 
 Short-term counselling is offered to all registered students of Imperial College London. It is free and confidential:
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/counselling/" role="button" style="margin-bottom:20px;white-space:normal;">College Counselling</a>
-  </div>
+.. button::
+   :text: College Counselling
+   :link: http://www.imperial.ac.uk/counselling/
 
 The above website also includes links to various resources that provide mental health information and advice.
 
@@ -121,11 +119,9 @@ If you are registered as an NHS patient you are also able to access free Mental 
 
 The Samaritans is a charity organisation who provide services to those who are experiencing mental health issues. You can contact their helpline, via phone on 116 123 (free from all phones including mobile) or email jo@samaritans.org
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.samaritans.org" role="button" style="margin-bottom:20px;white-space:normal;">Samaritans website</a>
-  </div>
+.. button::
+   :text: Samaritans website
+   :link: https://www.samaritans.org
 
 Security
 ========
@@ -134,21 +130,20 @@ Imperial is a relatively public space, and, sadly, thefts do occur from time to 
 
 If you are planning to use a bicycle in London, please be careful and lock it securely. You can find more information about this at the link below.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/secretariat/college-governance/charters/policies-regulations-and-codes-of-practice/information-security-/" role="button" style="margin-bottom:20px;white-space:normal;">Information Security Policy</a>
-  </div>
+.. button::
+   :text: Information Security Policy
+   :link: http://www.imperial.ac.uk/admin-services/secretariat/college-governance/charters/policies-regulations-and-codes-of-practice/information-security-/
 
 .. important::
   If you lose anything, report it promptly to the security officer in Sherfield building (no. 20 on :ref:`campus map <appendix-map>`, internal tel. 4444). It is especially important to report a lost or stolen id card. If you find an ID card or any apparently lost property in the school, please hand it into the undergraduate office or postgraduate office.
 
-.. raw:: html
+.. button::
+   :text: College Security website
+   :link: http://www.imperial.ac.uk/estates-facilities/security/
 
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/estates-facilities/security/" role="button" style="margin-bottom:20px;white-space:normal;">College Security website</a>
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/estates-facilities" role="button" style="margin-bottom:20px;white-space:normal;">Securing your bike</a>
-  </div>
+.. button::
+   :text: Securing your bike
+   :link: http://www.imperial.ac.uk/estates-facilities
 
 Your ID Card
 ============
@@ -157,11 +152,9 @@ The College-wide security system of ID swipe cards controls and monitors access 
 
 .. important:: Lending your swipe card to friends or acquaintances, even for a short time, is a serious offence which can result in your being asked to leave the College
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="mailto:id.card@imperial.ac.uk" role="button" style="margin-bottom:20px;white-space:normal;">Contact the ID Card Office</a>
-  </div>
+.. button::
+   :text: Contact the ID Card Office
+   :link: mailto:id.card@imperial.ac.uk
 
 .. image:: _static/id-card.jpg
 
@@ -170,11 +163,9 @@ Student Disciplinary Procedure
 
 The College has the right to investigate any allegation of misconduct against a student and may take disciplinary action where it decides, on the balance of probabilities, that a breach of discipline has been committed. The general principles of the Student Disciplinary Procedure are available on the College website.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="http://www.imperial.ac.uk/admin-services/secretariat/college-governance/charters/ordinances/students/" role="button" style="margin-bottom:20px;white-space:normal;">Student Disciplinary Procedure</a>
-  </div>
+.. button::
+   :text: Student Disciplinary Procedure
+   :link: http://www.imperial.ac.uk/admin-services/secretariat/college-governance/charters/ordinances/students/
 
 Smoke-Free Policy
 =================
@@ -183,11 +174,9 @@ Smoke-Free Policy
 
 All Imperial campuses and properties are smoke-free. This means that smoking by staff and students is not permitted on or within 20 metres of College land. The policy covers all College properties, including student accommodation and sports grounds.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/health-and-wellbeing/smoke-free-imperial/" role="button" style="margin-bottom:20px;white-space:normal;">Smoke-free</a>
-  </div>
+.. button::
+   :text: Smoke-free
+   :link: https://www.imperial.ac.uk/health-and-wellbeing/smoke-free-imperial/
 
 Health and Safety
 =================
@@ -210,11 +199,9 @@ You are responsible for looking after your own health and safety and that of oth
 
 - inform your supervisor or the person in charge of the activity in cases where you are not confident that you are competent to carry out a work or leisure activity safely, rather than compromise your own safety or the safety of others.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/safety/safety-by-topic/safety-management/health-and-safety-policy-statement/" role="button" style="margin-bottom:20px;white-space:normal;">College Health and Safety Policy</a>
-  </div>
+.. button::
+   :text: College Health and Safety Policy
+   :link: https://www.imperial.ac.uk/safety/safety-by-topic/safety-management/health-and-safety-policy-statement/
 
 The School's safety contact is the :ref:`safety-officer`.
 

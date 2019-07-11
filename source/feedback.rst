@@ -99,9 +99,10 @@ This is a national-level survey. While in the Fourth year of your programme, you
 
 This nationwide survey compiles year-on-year comparative data for higher education institutions, with its results being made publicly available.
 
-.. raw:: html
+.. button::
+   :text: Unistats website
+   :link: https://unistats.ac.uk
 
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://unistats.ac.uk" role="button" style="margin-bottom:20px;white-space:normal;">Unistats website</a>
-  <a class="btn btn-info btn-custom" href="https://www.imperialcollegeunion.org/news/our-response-national-student-survey" role="button" style="margin-bottom:20px;white-space:normal;">Example of response to NSS</a>
-  </div>
+.. button::
+   :text: Example of response to NSS
+   :link: https://www.imperialcollegeunion.org/news/our-response-national-student-survey

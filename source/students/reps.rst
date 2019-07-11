@@ -11,11 +11,9 @@ About the Networks
 
 You can find the description provided by the IC Union of these roles here:
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperialcollegeunion.org/your-union/your-representatives/representation-networks" role="button" style="margin-bottom:20px;white-space:normal;">About the Rep Networks</a>
-  </div>
+.. button::
+   :text: About the Rep Networks
+   :link: https://www.imperialcollegeunion.org/your-union/your-representatives/representation-networks
 
 .. image:: rep-networks.png
   :align: center

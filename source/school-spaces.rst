@@ -41,10 +41,9 @@ Finding Roderick Hill Lecture Theatres
 
 A lecture theatre that we will be using quite frequently is Roderick Hill 266. This can be a little hard to locate the first time, so there are detailed instructions on how to find the room below. You may also use rooms 252 and 254, which are just around the corner from 266.
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/rodh-266/" role="button" style="margin-bottom:20px;white-space:normal;">How to find Roderick Hill 266</a></div>
+.. button::
+   :text: How to find Roderick Hill 266
+   :link: https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/rodh-266/
 
 Social Study Space
 ==================
@@ -109,11 +108,9 @@ Chemicals cannot be stored in the ACE lab without the prior agreement of the Sch
 
 **Email Head Technician, Ms. Ingrid Logan: i.logan@imperial.ac.uk**
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://www.imperial.ac.uk/secure/login/?requested=L21lZGlhL2ltcGVyaWFsLWNvbGxlZ2UvZmFjdWx0eS1vZi1lbmdpbmVlcmluZy9lbGVjdHJpY2FsLWFuZC1lbGVjdHJvbmljLWVuZ2luZWVyaW5nL2ludGVybmFsL29zZC9DT1NISC1PY3RvYmVyLTIwMTYtYmxhbmsuZG9j&signature=M2Y1YzJjOWM3MGZlNWRjNmMxYmRjY2RhYjJmYTFkZmQwYjc0MjBlMDk0YTIxZmEzMTMxZDZhMDFjODEyZjExNzY2OGQwNGM2MjUyNjZlN2NhZGZjYmVlN2UzZGI4MWVmOTliZWE5YjdiOGI4MmM0MjdhZWM2ODk5OWFmOTZlMTY&error=6" role="button" style="margin-bottom:20px;white-space:normal;">Download COSHH form</a>
-  </div>
+.. button::
+   :text: Download COSHH form
+   :link: https://www.imperial.ac.uk/secure/login/?requested=L21lZGlhL2ltcGVyaWFsLWNvbGxlZ2UvZmFjdWx0eS1vZi1lbmdpbmVlcmluZy9lbGVjdHJpY2FsLWFuZC1lbGVjdHJvbmljLWVuZ2luZWVyaW5nL2ludGVybmFsL29zZC9DT1NISC1PY3RvYmVyLTIwMTYtYmxhbmsuZG9j&signature=M2Y1YzJjOWM3MGZlNWRjNmMxYmRjY2RhYjJmYTFkZmQwYjc0MjBlMDk0YTIxZmEzMTMxZDZhMDFjODEyZjExNzY2OGQwNGM2MjUyNjZlN2NhZGZjYmVlN2UzZGI4MWVmOTliZWE5YjdiOGI4MmM0MjdhZWM2ODk5OWFmOTZlMTY&error=6
 
 Project Storage
 ---------------
@@ -129,11 +126,9 @@ The School’s workshop facilities are located on the ground floor of ACE Buildi
 
 Up to date information on the workshop facilities and procedures, can be found here:
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://docs.google.com/document/d/1hY0UzR169tsnO_m6JcdOWHx8cRAGFgMwkfHe-fTrbfI/edit" role="button" style="margin-bottom:20px;white-space:normal;">Dyson School Workshop Details</a>
-  </div>
+.. button::
+   :text: Dyson School Workshop Details
+   :link: https://docs.google.com/document/d/1hY0UzR169tsnO_m6JcdOWHx8cRAGFgMwkfHe-fTrbfI/edit
 
 **The ACE Lab Project Development Area**
 
