@@ -54,9 +54,16 @@ def html_visit_button_node(self, node):
     self.body.append(html)
     raise nodes.SkipNode
 
+
+def latex_visit_button_node(self, node):
+    # html = BUTTON_TEMPLATE.render(text=node['text'], link=node['link'])
+    # self.body.append(html)
+    raise nodes.SkipNode
+
 # More visit function can be defined for latex, text, etc. outputs too
 # Other visit functions should be added as add_node() kwargs. 
 def setup(app):
     app.add_node(button_node,
-                 html=(html_visit_button_node, None))
+                 html=(html_visit_button_node, None),
+                 latex=(latex_visit_button_node, None))
     app.add_directive('button', ButtonDirective)
