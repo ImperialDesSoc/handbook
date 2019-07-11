@@ -5,23 +5,15 @@ Design Engineering Student Handbook
 MEng Design Engineering 2018-19
 ===============================
 
-.. raw:: html
-
-  <div style="text-align:center">
-  <a class="btn btn-info btn-custom" href="https://google.com" role="button" style="margin-bottom:20px;white-space:normal;">Old method</a>
-  </div>
-
-.. button::
-   :text: New method
-   :link: https://google.com
-
 .. warning::
-  This version of the digital handbook is in line with version 8.2 of the PDF version of the handbook. There are however a number of places where information may still be missing. All these places have been marked with a 'Todo' box.
+  **This is a prototype version of the student handbook.**
 
-  If in doubt, please `check the PDF version <https://bb.imperial.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_676549_1&course_id=_7973_1&mode=reset>`_ of the handbook which can be found in the 'UG Resources' section of Blackboard.
+  The content here is roughly in line with version 8.2 of the PDF handbook. There are however a number of places where information may still be missing. All these places have been marked with a 'Todo' box.
+
+  The official version of the handbook is in PDF form and `can be found in the 'UG Resources' section of Blackboard <https://bb.imperial.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_676549_1&course_id=_7973_1&mode=reset>`_.
 
 .. note::
-  Please direct any feedback or enquiries about this handbook to benedict.greenberg15@imperial.ac.uk
+  Please direct any feedback or enquiries about this handbook to bsdgreenberg@gmail.com
 
 Contents
 ========
