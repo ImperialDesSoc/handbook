@@ -1,4 +1,8 @@
+# Ignore these root directories
 /build
 /node_modules
+
+# Ignore any directories/files with these names
 _build
 .vscode
+__pycache__
