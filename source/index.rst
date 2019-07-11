@@ -5,6 +5,16 @@ Design Engineering Student Handbook
 MEng Design Engineering 2018-19
 ===============================
 
+.. raw:: html
+
+  <div style="text-align:center">
+  <a class="btn btn-info btn-custom" href="https://google.com" role="button" style="margin-bottom:20px;white-space:normal;">Old method</a>
+  </div>
+
+.. button::
+   :text: New method
+   :link: https://google.com
+
 .. warning::
   This version of the digital handbook is in line with version 8.2 of the PDF version of the handbook. There are however a number of places where information may still be missing. All these places have been marked with a 'Todo' box.
 

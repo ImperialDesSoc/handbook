@@ -9,9 +9,10 @@
 */
 @import url("css/theme.css");
 
-/* .btn-custom {
-  margin-bottom: 20px !important;
-} */
+.btn-custom {
+  margin-bottom: 20px; 
+  white-space: normal;
+}
 
 .wy-table-responsive table td {
     white-space: normal !important;
