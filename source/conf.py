@@ -47,10 +47,14 @@ source_suffix = '.rst'
 # The master toctree document.
 master_doc = 'index'
 
+# Get current year for copyright
+import datetime
+year = datetime.datetime.now().year
+
 # General information about the project.
 project = 'Design Engineering Student Handbook'
-copyright = '2018, Imperial College, School of Design Engineering'
-author = 'Benedict Greenberg'
+copyright = '{}, Dyson School of Design Engineering, Imperial College London'.format(year)
+author = 'Dyson School of Design Engineering, Imperial College London'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
